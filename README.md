@@ -60,6 +60,24 @@ This section is a great place to showcase your work. You can link to repositorie
 | [Ketron](https://github.com/prathameshnium/Ketron) | An open-source archive for code snippets and personal projects.  | Jupyter Notebook  |
 | *More projects to come...* |                                                                  |                   |
 
+Of course. Here is that section written in a clear, professional style, ready for your profile.
+
+I've focused on making the project descriptions concise and impactful, highlighting the key skills and outcomes for each one.
+
+Let me know if you'd like any adjustments to the wording\!
+
+-----
+
+### 🚀 Highlighted Projects
+
+This section showcases repositories with data analysis scripts, instrument drivers, or simulation code.
+
+| Project                                                                            | Description                                                                                                                                                             | Technologies Used                  |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| [Ketron](https://github.com/prathameshnium/Ketron)                                  | An open-source knowledge base for various code snippets, experimental scripts, and small personal projects developed during my research.                                | Python/Jupyter Notebook                   |
+| [Instrument Control Suite]     | A collection of Python scripts using `PyVISA` to automate various lab instruments (Keithley, Lakeshore, Keysight) for advanced electrical and materials characterization. | Python, PyVISA, NumPy, Matplotlib  |
+| [Data Analysis & Plotting]  | A robust pipeline of Pandas scripts designed to transform raw dielectric spectroscopy data into clear, publication-ready visualizations and analyses.                      | Python, Pandas, NumPy, Matplotlib  |
+
 ---
 
 ### 📊 My GitHub Activity
