@@ -26,7 +26,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am passionate about experimental physics and leveraging programming to build robust solutions for scientific measurement and discovery.
+I am passionate about experimental physics and leveraging programming to build robust solutions for scientific measurement and analysis.
 
 - 🔭 **Research Focus:** My research involves the study of multiferroic composites.
 - 🔬 **Core Skills:** My expertise lies in creating custom programs for instrument control and automating complex data analysis pipelines.
