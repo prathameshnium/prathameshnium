@@ -63,10 +63,6 @@ This section is a great place to showcase your work. You can link to repositorie
 ---
 
 ### 📊 My GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Prathamesh's GitHub Stats"/>
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshnium&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshnium&theme=tokyonight" alt="Contribution Graph"/>
-</div>
+  
