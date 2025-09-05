@@ -76,7 +76,7 @@ This section showcases repositories with data analysis scripts, instrument drive
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | [Ketron](https://github.com/prathameshnium/Ketron)                                  | An open-source knowledge base for various code snippets, experimental scripts, and small personal projects developed during my research.                                | Python/Jupyter Notebook                   |
 | [Instrument Control Suite]     | A collection of Python scripts using `PyVISA` to automate various lab instruments (Keithley, Lakeshore, Keysight) for advanced electrical and materials characterization. | Python, PyVISA, NumPy, Matplotlib  |
-| [Data Analysis & Plotting]  | A robust pipeline of Pandas scripts designed to transform raw dielectric spectroscopy data into clear, publication-ready visualizations and analyses.                      | Python, Pandas, NumPy, Matplotlib  |
+| [Data Analysis & Plotting]  | A robust pipeline of Pandas scripts designed to transform raw dielectric,magnetic,magnetodielectric data into clear, publication-ready visualizations and analyses.                      | Python, Pandas, NumPy, Matplotlib  |
 
 ---
 
