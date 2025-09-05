@@ -9,7 +9,7 @@
   </p>
   <p>
     <a href="https://prathameshdeshmukh.site/" target="_blank">
-      <img src="https://img.shields.io/badge/website-Prathamesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Website"/>
+      <img src="https://img.shields.io/badge/Website-6C93C4" alt="Website"/>
     </a>
     <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
