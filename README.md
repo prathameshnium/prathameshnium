@@ -50,21 +50,6 @@ Here are some of the languages, libraries, and tools I use to build my experimen
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 🚀 Highlighted Projects
-This section is a great place to showcase your work. You can link to repositories with data analysis scripts, instrument drivers, or simulation code.
-
-| Project                                       | Description                                                      | Technologies Used |
-| --------------------------------------------- | ---------------------------------------------------------------- | ----------------- |
-| [Ketron](https://github.com/prathameshnium/Ketron) | An open-source archive for code snippets and personal projects.  | Jupyter Notebook  |
-| *More projects to come...* |                                                                  |                   |
-
-Of course. Here is that section written in a clear, professional style, ready for your profile.
-
-I've focused on making the project descriptions concise and impactful, highlighting the key skills and outcomes for each one.
-
-Let me know if you'd like any adjustments to the wording\!
 
 -----
 
