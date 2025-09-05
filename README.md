@@ -8,6 +8,9 @@
     I am a Physics PhD student at the <b>UGC-DAE Consortium for Scientific Research (Mumbai Centre)</b>.
   </p>
   <p>
+    <a href="https://prathameshdeshmukh.site/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Website"/>
+    </a>
     <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
