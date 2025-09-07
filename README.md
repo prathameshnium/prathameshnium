@@ -83,20 +83,19 @@ Here are some of the languages, libraries, and tools I use to build my experimen
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=prathameshnium&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Prathamesh Deshmukh's GitHub Trophies" />
 </p>
 
-
 ---
 
 ### Highlighted Projects
 
 This section showcases repositories with data analysis scripts, instrument drivers, or simulation code.
 
-| Project                                                               | Description                                                                                                                                                            | Technologies Used                     |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Project                                                               | Description                                                                                                                                                    | Technologies Used                     |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [**Physics-Simulation-Toolkit**](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | A collection of Python scripts for simulating and visualizing phenomena in condensed matter physics, including magnetic ordering (Ising model) and dielectric models. | `Python`, `Jupyter`, `NumPy`, `SciPy`     |
 | [**Solid-State-Physics-Calculators**](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | Scripts for analyzing experimental solid-state data, including calculations for activation energy (Arrhenius) and charge transport parameters (Mott-VRH models).   | `Python`, `Pandas`, `Matplotlib`        |
-| [**Python-for-OriginPro**](https://github.com/prathameshnium/Python-for-OriginPro) | A suite of scripts using the `originpro` library to automate plotting, data fitting, and report generation directly within OriginLab's software.                        | `Python`, `originpro`, `Pandas`         |
-| [**Ketron**](https://github.com/prathameshnium/Ketron)                | An open-source knowledge base and archive of various code snippets, experimental scripts, and small personal projects developed during my research.                     | `Python`, `Jupyter`, `LaTeX`, `MATLAB`  |
-| [**Scientific-Python-Snippets**](https://github.com/prathameshnium/Scientific-Python-Snippets) | A curated collection of small, reusable Python scripts for common data handling, file manipulation, and automation tasks, often with simple GUI interfaces.        | `Python`, `Tkinter`, `Pandas`           |
+| [**Python-for-OriginPro**](https://github.com/prathameshnium/Python-for-OriginPro) | A suite of scripts using the `originpro` library to automate plotting, data fitting, and report generation directly within OriginLab's software.               | `Python`, `originpro`, `Pandas`         |
+| [**Ketron**](https://github.com/prathameshnium/Ketron)                | An open-source knowledge base and archive of various code snippets, experimental scripts, and small personal projects developed during my research.                 | `Python`, `Jupyter`, `LaTeX`, `MATLAB`  |
+| [**Scientific-Python-Snippets**](https://github.com/prathameshnium/Scientific-Python-Snippets) | A curated collection of small, reusable Python scripts for common data handling, file manipulation, and automation tasks, often with simple GUI interfaces.      | `Python`, `Tkinter`, `Pandas`           |
 
 ---
 
@@ -107,5 +106,4 @@ Scientific Computing, Experimental Physics, Data Analysis, Python, PyVISA, Instr
 
 <div align="center">
   <h3>Thanks for visiting!</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshnium&theme=tokyo-night&hide_border=true&hide_title=false&area=true&bg_color=1a1b27&line=6C93C4&point=A6CE39" alt="Prathamesh Deshmukh's GitHub Activity Graph" />
 </div>
