@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
   <h1>
-    Hi there, I'm Prathamesh Deshmukh (test1)
+    Hi there, I'm Prathamesh Deshmukh
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
@@ -46,7 +46,7 @@
 - **Research Focus:** My research involves the study of **multiferroic composites** and other novel materials in condensed matter physics.
 - **Core Skills:** I specialize in creating custom programs for **instrument control** (using Python & `PyVISA`) and automating complex **data analysis pipelines**.
 - **Currently Learning:** I'm expanding my skills in **COMSOL Multiphysics** to better model and simulate physical systems.
-- **Let's Connect:** Feel free to ask me about scientific computing in Python, interfacing with lab equipment, or my research.
+- **Code Repositories:** My primary work is on **[GitHub](https://github.com/prathameshnium)**, with a manually mirrored backup on **[GitLab](https://gitlab.com/prathameshnium)**.
 - **Contact:** You can reach me via email at **prathameshnium@duck.com**.
 
 ---
@@ -90,12 +90,12 @@ Here are some of the languages, libraries, and tools I use to build my experimen
 
 This section showcases repositories with data analysis scripts, instrument drivers, or simulation code.
 
-| Project                                                               | Description                                                                                                                                                            | Technologies Used                     |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [**Physics-Simulation-Toolkit**](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | A collection of Python scripts for simulating and visualizing phenomena in condensed matter physics, including magnetic ordering (Ising model) and dielectric models. | `Python`, `Jupyter`, `NumPy`, `SciPy`     |
+| Project                                                               | Description                                                                                                                                                    | Technologies Used                     |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [**Physics-Simulation-Toolkit**](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | A collection of Python scripts for simulating and visualizing phenomena in condensed matter physics, including magnetic ordering (Ising model) and dielectric models. | `Python`, `Jupyter`, `NumPy`, `SciPy`       |
 | [**Solid-State-Physics-Calculators**](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | Scripts for analyzing experimental solid-state data, including calculations for activation energy (Arrhenius) and charge transport parameters (Mott-VRH models).   | `Python`, `Pandas`, `Matplotlib`        |
-| [**Python-for-OriginPro**](https://github.com/prathameshnium/Python-for-OriginPro) | A suite of scripts using the `originpro` library to automate plotting, data fitting, and report generation directly within OriginLab's software.                        | `Python`, `originpro`, `Pandas`         |
-| [**Ketron**](https://github.com/prathameshnium/Ketron)                | An open-source knowledge base and archive of various code snippets, experimental scripts, and small personal projects developed during my research.                     | `Python`, `Jupyter`, `LaTeX`, `MATLAB`  |
+| [**Python-for-OriginPro**](https://github.com/prathameshnium/Python-for-OriginPro) | A suite of scripts using the `originpro` library to automate plotting, data fitting, and report generation directly within OriginLab's software.                 | `Python`, `originpro`, `Pandas`         |
+| [**Ketron**](https://github.com/prathameshnium/Ketron)                  | An open-source knowledge base and archive of various code snippets, experimental scripts, and small personal projects developed during my research.                 | `Python`, `Jupyter`, `LaTeX`, `MATLAB`  |
 | [**Scientific-Python-Snippets**](https://github.com/prathameshnium/Scientific-Python-Snippets) | A curated collection of small, reusable Python scripts for common data handling, file manipulation, and automation tasks, often with simple GUI interfaces.        | `Python`, `Tkinter`, `Pandas`           |
 
 ---
