@@ -91,7 +91,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ---
 
-### 🔬 Featured Project
+###  Featured Project
 
 <table>
   <tr>
@@ -115,7 +115,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
       </p>
     </td>
     <td width="35%" valign="top">
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_Logo.png" alt="PICA Logo" width="100"/>
+      <img src="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/blob/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Logo" width="100"/>
       <br><br>
       <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/screenshots/PICA_Launcher_Screenshot.png" alt="PICA Launcher Screenshot" width="250"/>
     </td>
