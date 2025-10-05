@@ -5,7 +5,7 @@
   
   ### Physics PhD Scholar & Scientific Programmer
   
-  <p>
+  <p align="center">
     I am a doctoral researcher at the <b>UGC-DAE Consortium for Scientific Research (Mumbai Centre)</b>, specializing in <b>Condensed Matter Physics</b> and <b>Materials Science</b>. I am passionate about developing robust Python-based solutions for <b>lab automation</b>, <b>instrument control</b>, and advanced <b>data analysis</b>.
   </p>
   
@@ -50,7 +50,7 @@
 
 ### About Me
 
-My doctoral research is centered on **multiferroic composites** and other novel materials in **Condensed Matter Physics**. I bridge the gap between experimental physics and computational science by creating custom programs for **instrument control** using Python (`PyVISA`, `PyMeasure`) and automating complex **data analysis pipelines** (`Pandas`, `NumPy`, `SciPy`). I am currently expanding my expertise in **COMSOL Multiphysics** to better model and simulate complex physical systems.
+My doctoral research centers on **multiferroic composites** and other novel materials in **Condensed Matter Physics**. I bridge the gap between experimental physics and computational science by creating custom Python programs for **instrument control** (`PyVISA`, `PyMeasure`) and automating complex **data analysis pipelines** (`Pandas`, `NumPy`, `SciPy`). I am also expanding my expertise in **COMSOL Multiphysics** to model and simulate complex physical systems.
 
 - **Primary Repositories:** My main body of work is on **[GitHub](https://github.com/prathameshnium)**, with a mirror on **[GitLab](https://gitlab.com/prathameshnium)**.
 - **Contact:** I'm open to collaborations. Reach me at **prathameshnium[at]duck[.]com**.
@@ -76,28 +76,18 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ### My GitHub Stats & Activity
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh Deshmukh's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshnium&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Prathamesh Deshmukh's Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnium&theme=tokyonight&hide_border=true" alt="Prathamesh Deshmukh's GitHub Streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=prathameshnium&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Prathamesh Deshmukh's GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh Deshmukh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshnium&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Prathamesh Deshmukh's Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnium&theme=tokyonight&hide_border=true" alt="Prathamesh Deshmukh's GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathameshnium&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Prathamesh Deshmukh's GitHub Trophies" />
+</div>
 
 ---
 
-### Featured Project
+### 🚀 Featured Project
 
 <table>
   <tr>
@@ -121,7 +111,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
       </p>
     </td>
     <td width="35%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Logo" width="120"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="120"/>
       <br/><br/>
       <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Laucher_V4.png" alt="PICA Launcher Screenshot" width="300"/>
     </td>
@@ -130,7 +120,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ---
 
-### Highlighted Scientific Projects
+### 🔬 Highlighted Scientific Projects
 
 This section showcases other key repositories for data analysis, instrument control drivers, and physics simulations.
 
@@ -145,7 +135,7 @@ This section showcases other key repositories for data analysis, instrument cont
 
 ---
 
-### Core Competencies & Keywords
+### 🛠️ Core Competencies & Keywords
 - **Physics:** Condensed Matter Physics, Materials Science, Multiferroics, Experimental Physics
 - **Programming:** Scientific Computing, Python, PyVISA, Instrument Control, Lab Automation, Data Analysis, Data Visualization
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib
