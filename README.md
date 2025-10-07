@@ -113,7 +113,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
     <td width="35%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="120"/>
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Laucher_V4.png" alt="PICA Launcher Screenshot" width="300"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Launcher_v6.png" alt="PICA Launcher Screenshot" width="300"/>
     </td>
   </tr>
 </table>
