@@ -30,7 +30,7 @@
     <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus Profile"/>
     </a>
-    <a href="https://www.webofscience.com/wos/author/record/OFN-9289-2025" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.webofscience.com/wos/author/record/OFN-9298-2025" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Web_of_Science-D4203B?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science Profile"/>
     </a>
     <a href="https://orcid.org/0009-0008-3278-0837" target="_blank" rel="noopener noreferrer">
@@ -84,6 +84,11 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnium&theme=tokyonight&hide_border=true" alt="Prathamesh Deshmukh's GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=prathameshnium&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Prathamesh Deshmukh's GitHub Trophies" />
 </div>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prathameshnium&repo=PICA-Python-Instrument-Control-and-Automation&theme=tokyonight&show_owner=true" />
+  </a>
+</div>
 
 ---
 
@@ -113,7 +118,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
     <td width="35%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="120"/>
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Launcher_v6.png" alt="PICA Launcher Screenshot" width="300"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Laucher_V6.png" alt="PICA Launcher Screenshot" width="300"/>
     </td>
   </tr>
 </table>
@@ -124,9 +129,9 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 This section showcases other key repositories for data analysis, instrument control drivers, and physics simulations.
 
-| Project                                                               | Description                                                                                                                                                     | Core Technologies                   |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [**Academic Portfolio Website**](https://github.com/prathameshnium/Prathamesh_Deshmukh) | Source code for my personal academic portfolio, built with a responsive design to showcase my research, publications, and skills. | `HTML5`, `Tailwind CSS`, `GitHub Pages` |
+| Project                                                               | Description                                                                                                                                     | Core Technologies                   |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [**Academic Portfolio Website**](https://github.com/prathameshnium/prathameshnium.github.io) | Source code for my personal academic portfolio, built with a responsive design to showcase my research, publications, and skills. | `HTML5`, `Tailwind CSS`, `GitHub Pages` |
 | [**Physics-Simulation-Toolkit**](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | Python scripts for simulating and visualizing phenomena in condensed matter physics, such as magnetic ordering and common dielectric models. | `Python`, `Jupyter`, `NumPy`, `SciPy`   |
 | [**Solid-State-Physics-Calculators**](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | Analysis scripts for calculating key experimental solid-state parameters like activation energy (Arrhenius) and charge transport (Mott-VRH). | `Python`, `Pandas`, `Matplotlib`    |
 | [**Python-for-OriginPro**](https://github.com/prathameshnium/Python-for-OriginPro) | Automation scripts leveraging the `originpro` library to streamline plotting and data fitting directly within OriginLab's software environment. | `Python`, `originpro`, `Pandas`     |
@@ -147,4 +152,6 @@ This section showcases other key repositories for data analysis, instrument cont
 <div align="center">
   <h3>Thanks for visiting!</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshnium&theme=tokyo-night&hide_border=true&hide_title=false&area=true&bg_color=1a1b27&line=6C93C4&point=A6CE39" alt="Prathamesh Deshmukh's GitHub Activity Graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/prathameshnium/prathameshnium/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
