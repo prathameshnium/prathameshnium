@@ -19,6 +19,9 @@
     <a href="https://prathameshdeshmukh.site/pages/blog.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific Blog"/>
     </a>
+    <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
+    </a>
     <a href="https://prathameshdeshmukh.site/pages/cv.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Download_CV-F6AD55?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download CV"/>
     </a>
@@ -27,17 +30,17 @@
     <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"/>
     </a>
-    <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus Profile"/>
-    </a>
-    <a href="https://www.webofscience.com/wos/author/record/OFN-9298-2025" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Web_of_Science-D4203B?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science Profile"/>
-    </a>
     <a href="https://orcid.org/0009-0008-3278-0837" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile"/>
     </a>
     <a href="https://www.researchgate.net/profile/Prathamesh-Deshmukh-6" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"/>
+    </a>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus Profile"/>
+    </a>
+    <a href="https://www.webofscience.com/wos/author/record/OFN-9298-2025" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Web_of_Science-D4203B?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science Profile"/>
     </a>
   </div>
     
@@ -52,7 +55,7 @@
 
 My doctoral research centers on **multiferroic composites** and other novel materials in **Condensed Matter Physics**. I bridge the gap between experimental physics and computational science by creating custom Python programs for **instrument control** (`PyVISA`, `PyMeasure`) and automating complex **data analysis pipelines** (`Pandas`, `NumPy`, `SciPy`). I am also expanding my expertise in **COMSOL Multiphysics** to model and simulate complex physical systems.
 
-- **Primary Repositories:** My main body of work is on **[GitHub](https://github.com/prathameshnium)**, with a mirror on **[GitLab](https://gitlab.com/prathameshnium)**.
+- **Repositories:** My primary work is on **GitHub**. All public repositories are manually mirrored to **GitLab** every few days as a backup.
 - **Contact:** I'm open to collaborations. Reach me at **prathameshnium[at]duck[.]com**.
 
 ---
