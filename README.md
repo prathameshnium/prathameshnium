@@ -89,31 +89,33 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ### 🚀 Featured Project
 
-<table>
+<table width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <h3>PICA: Python-based Instrument Control & Automation</h3>
-      <p>My flagship project, <b>PICA</b>, is a modular software suite designed to provide a robust framework for automating laboratory instruments in materials science and condensed matter physics research. It features a central GUI, the <b>PICA Launcher</b>, which manages and executes a variety of characterization experiments.</p>
-      <b>Core Features:</b>
-      <ul>
-        <li><b>Centralized Control Dashboard</b> for launching all measurement modules.</li>
-        <li><b>Isolated Process Execution</b> via Python's <code>multiprocessing</code> to ensure stability.</li>
-        <li><b>Modular Architecture</b> for easy extension to new instruments and experiments.</li>
-        <li><b>Integrated VISA Instrument Scanner</b> for simplified hardware debugging.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
-        </a>
-        <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
-        </a>
-      </p>
+    <td width="60%" valign="top">
+      <h3 style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="40"/>
+        PICA: Python-based Instrument Control & Automation
+      </h3>
+      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI, the <b>PICA Launcher</b>, which manages and executes various characterization experiments in materials science research.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
+        <img src="https://img.shields.io/badge/PyVISA-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyVISA"/>
+        <img src="https://img.shields.io/badge/Multiprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Multiprocessing"/>
+      </div>
+      <br>
+      <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+      </a>
+      <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
+      </a>
     </td>
-    <td width="35%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="120"/>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Launcher_v6.png" alt="PICA Launcher Screenshot" width="300"/>
+    <td width="40%" valign="top" align="center">
+      <!-- 💡 TIP: Replace this static image with a GIF of your PICA Launcher in action! -->
+      <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation" target="_blank">
+        <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Launcher_v6.png" alt="PICA Launcher Demo" width="100%"/>
+      </a>
     </td>
   </tr>
 </table>
