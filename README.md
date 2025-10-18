@@ -69,7 +69,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" height="45"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" alt="matplotlib" width="45" height="45"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_images/logo_dark_background.svg" alt="matplotlib" width="45" height="45"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
@@ -122,7 +122,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
     <td width="35%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="120"/>
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Launcher_v6.png" alt="PICA Launcher Screenshot" width="300"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Laucher_V6.png" alt="PICA Launcher Screenshot" width="300"/>
     </td>
   </tr>
 </table>
