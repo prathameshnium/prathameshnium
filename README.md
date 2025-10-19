@@ -118,6 +118,28 @@ Here are the primary languages, libraries, and tools I use for research, data an
       <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
       </a>
+      <br><br>
+      <details>
+        <summary><b>How to Cite PICA</b></summary>
+        <br>
+        If you use this software in your research, please cite it. This helps to credit the work involved in creating and maintaining this resource.
+        <br><br>
+        <b>Using BibTeX</b>
+        <p>You can use the following BibTeX entry for your reference manager (e.g., Zotero, Mendeley, JabRef).</p>
+
+```bibtex
+@software{Deshmukh_PICA_2023,
+  author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
+  title        = {{PICA: Python-based Instrument Control and Automation Software Suite}},
+  month        = sep,
+  year         = 2023,
+  publisher    = {GitHub},
+  version      = {14.1.0},
+  url          = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation}
+}
+```
+        <p>Alternatively, you can use the <code>CITATION.cff</code> file in the root of the <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation">repository</a> for automatic parsing by modern reference managers.</p>
+      </details>
     </td>
     <td width="35%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="120"/>
