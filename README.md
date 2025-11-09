@@ -17,9 +17,6 @@
     <a href="https://prathameshdeshmukh.site/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website and Portfolio"/>
     </a>
-    <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"/>
-    </a>
     <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
     </a>
@@ -29,14 +26,14 @@
     <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus Profile"/>
     </a>
-    <a href="https://www.webofscience.com/wos/author/record/OFN-9298-2025" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Web_of_Science-D4203B?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science Profile"/>
-    </a>
     <a href="https://prathameshdeshmukh.site/pages/cv.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Download_CV-F6AD55?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download CV"/>
     </a>
     <a href="https://www.researchgate.net/profile/Prathamesh-Deshmukh-6" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"/>
+    </a>
+    <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/google-scholar/citations/DJgzI30AAAAJ?style=for-the-badge&label=Google%20Scholar&logo=google-scholar" alt="Google Scholar Citations"/>
     </a>
   </div>
     
@@ -66,7 +63,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" height="45"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_images/logo_dark_background.svg" alt="matplotlib" width="45" height="45"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="45" height="45"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
     <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
@@ -178,8 +175,9 @@ This section showcases other key repositories for data analysis, instrument cont
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnium&hide_border=true&background=193549&stroke=FFFFFF&ring=ffab40&fire=ffab40&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Prathamesh Deshmukh's GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=prathameshnium&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" alt="Prathamesh Deshmukh's GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshnium&theme=tokyonight" alt="Prathamesh Deshmukh's GitHub Profile Summary" />
   
   <h3>Thanks for visiting!</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshnium&hide_border=true&hide_title=false&area=true&bg_color=193549&line=ffab40&point=FFFFFF&area_color=FFFFFF" alt="Prathamesh Deshmukh's GitHub Activity Graph" />
-  <img src="https://raw.githubusercontent.com/prathameshnium/prathameshnium/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/prathameshnium/prathameshnium/main/github-contribution-grid-snake.svg" alt="snake" />
 </div>
