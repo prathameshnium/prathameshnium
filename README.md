@@ -63,7 +63,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="60" height="60"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="60" height="60"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="120" height="120"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
     <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
