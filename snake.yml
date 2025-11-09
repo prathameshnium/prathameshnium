@@ -11,6 +11,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Grant the workflow write permissions to push the generated file to the repository
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
