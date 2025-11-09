@@ -1,0 +1,34 @@
+name: Generate Snake Animation
+
+on:
+  # Run this workflow automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # The snake will be your accent color, and the dots will match your theme
+          outputs: |
+            github-contribution-grid-snake.svg?color_snake=ffab40&color_dots=193549,4c6a82,808da5,b3b1c8,ffab40
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake animation"
+          file_pattern: github-contribution-grid-snake.svg
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
