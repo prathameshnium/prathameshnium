@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  # Prathamesh Deshmukh
+  <h1>Prathamesh Deshmukh</h1>
   
   ### Physics PhD Scholar & Scientific Programmer
   
