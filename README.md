@@ -59,15 +59,15 @@ Contact: I'm open to collaborations. Reach me at prathameshnium[at]duck[.]com.
 Here are the primary languages, libraries, and tools I use for research, data analysis, and simulation:
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="60" height="60"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="120" height="120"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-    <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
-  </p>
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
+  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="60" height="60"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="60" height="60"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
+</p>
 
 ---
 
@@ -98,13 +98,13 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ```bibtex
 @software{Deshmukh_PICA_2023,
-  author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
-  title        = {{PICA: Python-based Instrument Control and Automation Software Suite}},
-  month        = sep,
-  year         = {2023},
-  publisher    = {GitHub},
-  version      = {14.1.0},
-  url          = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/14.1.0}
+  author    = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
+  title     = {{PICA: Python-based Instrument Control and Automation Software Suite}},
+  month     = sep,
+  year      = {2023},
+  publisher = {GitHub},
+  version   = {14.1.0},
+  url       = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/14.1.0}
 }
 ```
 
