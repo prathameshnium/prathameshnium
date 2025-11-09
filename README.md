@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/> -->
   
   # Prathamesh Deshmukh
   
@@ -21,10 +20,10 @@
     </a>
   </div>
   <div style="margin-top: 5px;">
-     <a href="https://prathameshdeshmukh.site/" target="_blank" rel="noopener noreferrer">
+    <a href="https://prathameshdeshmukh.site/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website and Portfolio"/>
     </a>
-     <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+    <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"/>
     </a>
     <a href="https://orcid.org/0009-0008-3278-0837" target="_blank" rel="noopener noreferrer">
@@ -77,25 +76,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ---
 
-### My GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh Deshmukh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshnium&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Prathamesh Deshmukh's Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnium&theme=tokyonight&hide_border=true" alt="Prathamesh Deshmukh's GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prathameshnium&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Prathamesh Deshmukh's GitHub Trophies" />
-</div>
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prathameshnium&repo=PICA-Python-Instrument-Control-and-Automation&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
-
----
-
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
@@ -126,13 +107,13 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ```bibtex
 @software{Deshmukh_PICA_2023,
-  author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
-  title        = {{PICA: Python-based Instrument Control and Automation Software Suite}},
-  month        = sep,
-  year         = 2023,
-  publisher    = {GitHub},
-  version      = {14.1.0},
-  url          = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation}
+  author        = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
+  title         = {{PICA: Python-based Instrument Control and Automation Software Suite}},
+  month         = sep,
+  year          = 2023,
+  publisher     = {GitHub},
+  version       = {14.1.0},
+  url           = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation}
 }
 ```
         <p>Alternatively, you can use the <code>CITATION.cff</code> file in the root of the <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation">repository</a> for automatic parsing by modern reference managers.</p>
