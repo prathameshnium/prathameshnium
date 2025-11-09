@@ -4,7 +4,7 @@
   ### Physics PhD Scholar & Scientific Programmer
   
   <p align="center">
-    Doctoral researcher at the <b>UGC-DAE Consortium for Scientific Research (Mumbai)</b> specializing in <b>Condensed Matter Physics</b> and <b>Materials Science</b>. I develop robust Python solutions for lab automation, instrument control, and advanced data analysis.
+    Doctoral researcher at the UGC-DAE Consortium for Scientific Research (Mumbai) specializing in Condensed Matter Physics and Materials Science. I develop robust Python solutions for lab automation, instrument control, and advanced data analysis.
   </p>
   
   <div style="margin-bottom: 5px;">
@@ -104,10 +104,10 @@ Here are the primary languages, libraries, and tools I use for research, data an
   author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
   title        = {{PICA: Python-based Instrument Control and Automation Software Suite}},
   month        = sep,
-  year         = 2023,
+  year         = {2023},
   publisher    = {GitHub},
   version      = {14.1.0},
-  url          = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation}
+  url          = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/14.1.0}
 }
 ```
 
@@ -126,7 +126,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Logo" width="30"/>
+        <img src="https://raw.githubusercontent.com/prathameshnium/Kusanagi-AI/main/_assets/kusanagi_logo.png" alt="Kusanagi-AI Logo" width="30"/>
         Kusanagi-AI: Free & Open-Source Local AI Toolkit
       </h3>
       <p>My latest project is <b>Kusanagi-AI</b>, a free and open-source local AI toolkit designed for researchers, especially in Physics and Material Science. It empowers users with privacy-focused AI tools that run efficiently on standard laptops, leveraging Ollama for local large language model inference. The toolkit's flagship application, the "Research Assistant (Orochimaru)," enables Retrieval-Augmented Generation (RAG) with PDF documents, academic review generation, and more, all while ensuring data remains 100% private and offline.</p>
@@ -140,8 +140,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
       </a>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
-      <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Screenshot Placeholder" width="300"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/Kusanagi-AI/main/_assets/kusanagi_logo.png" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/Kusanagi-AI/main/_assets/orochimaru_rag_assistant.png" alt="Kusanagi-AI Screenshot" width="300"/>
     </td>
     </tr>
   </table>
