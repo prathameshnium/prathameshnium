@@ -1,36 +1,30 @@
 <div id="header" align="center">
   
   # Prathamesh Deshmukh
-  
   ### Physics PhD Scholar & Scientific Programmer
   
   <p align="center">
-    Doctoral researcher at the <b>UGC-DAE Consortium for Scientific Research (Mumbai)</b> specializing in <b>Condensed Matter Physics</b> and <b>Materials Science</b>. I develop robust Python solutions for lab automation, instrument control, and advanced data analysis.
+    Doctoral researcher at the **UGC-DAE Consortium for Scientific Research (Mumbai)** specializing in **Condensed Matter Physics** and **Materials Science**. I develop robust Python solutions for lab automation, instrument control, and advanced data analysis.
   </p>
   
-  <div>
+  <p>
     <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
     </a>
     <a href="https://prathameshdeshmukh.site/pages/blog.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific Blog"/>
     </a>
-    <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
-    </a>
-  </div>
-  <div style="margin-top: 5px;">
     <a href="https://prathameshdeshmukh.site/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website and Portfolio"/>
+    </a>
+    <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
     </a>
     <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"/>
     </a>
     <a href="https://orcid.org/0009-0008-3278-0837" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile"/>
-    </a>
-    <a href="https://www.researchgate.net/profile/Prathamesh-Deshmukh-6" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"/>
     </a>
     <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus Profile"/>
@@ -41,16 +35,16 @@
     <a href="https://prathameshdeshmukh.site/pages/cv.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Download_CV-F6AD55?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download CV"/>
     </a>
-  </div>
+  </p>
     
-  <p style="margin-top: 15px;">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=prathameshnium&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile views counter" />
   </p>
 </div>
 
 ---
 
-### About Me
+## About Me
 
 My doctoral research centers on **multiferroic composites** and other novel materials in **Condensed Matter Physics**. I bridge the gap between experimental physics and computational science by creating custom Python programs for **instrument control** (`PyVISA`, `PyMeasure`) and automating complex **data analysis pipelines** (`Pandas`, `NumPy`, `SciPy`). I am also expanding my expertise in **COMSOL Multiphysics** to model and simulate complex physical systems.
 
@@ -59,7 +53,7 @@ My doctoral research centers on **multiferroic composites** and other novel mate
 
 ---
 
-### My Scientific & Technical Toolkit
+## My Scientific & Technical Toolkit
 
 Here are the primary languages, libraries, and tools I use for research, data analysis, and simulation:
 
@@ -76,14 +70,14 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
         <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="40"/>
-        PICA: Python-based Instrument Control & Automation
+        <span>PICA: Python-based Instrument Control & Automation</span>
       </h3>
       <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research. <b>Note: The repository is temporarily private due to academic publication policies, but a detailed project page is available.</b></p>
       <div>
@@ -129,7 +123,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ---
 
-### # Kusanagi-AI: Free & Open-Source Local AI Toolkit for Researchers
+## Kusanagi-AI: Free & Open-Source Local AI Toolkit for Researchers
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Logo" width="30"/>
@@ -139,21 +133,21 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 > Empowering researchers, particularly in Physics and Material Science, with accessible, privacy-focused AI tools designed to run efficiently on standard home laptops. Kusanagi-AI provides a robust, open-source platform for local AI experimentation and application, ensuring data ownership and control. Built to leverage the power of [Ollama](https://ollama.com/) for local large language model inference, this toolkit allows you to run advanced AI capabilities, including multiple models simultaneously, even on a decent laptop.
 
-## About This Project
+### About This Project
 
 Kusanagi-AI was developed to address the growing need for accessible and privacy-conscious AI solutions within the research community. Our mission is to provide a free, open-source toolkit that enables researchers, especially those in Physics and Material Science, to leverage advanced AI capabilities directly on their personal computers. By focusing on local execution, Kusanagi-AI ensures complete data privacy and eliminates reliance on cloud services, making sophisticated AI analysis available without specialized hardware or extensive technical expertise. This project is a testament to the power of local AI, offering a controlled environment for deep learning and practical application.
 
-## Technology Stack
+### Technology Stack
 
 Kusanagi-AI is built with a focus on local execution, privacy, and ease of use, leveraging powerful open-source technologies.
 
 | Technology | Description | Logo |
 | :--------- | :---------- | :--- |
-| **Python** | The entire frontend and application logic are developed in Python, ensuring readability, flexibility, and a vast ecosystem of libraries for AI development. | ![Python Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdgUkYVq9-UPHtkrQyNzA1t-hCdSG65-XYw&s) |
-| **Ollama** | Powers the local large language model inference, allowing Kusanagi-AI to run various models efficiently on your machine without cloud dependencies. It enables seamless management and interaction with models like Llama3, Gemma, Qwen, and TinyLlama. | ![Ollama Logo](https://seeklogo.com/images/O/ollama-logo-F62D6B7A7F-seeklogo.com.png) |
-| **MXBAI Embeddings** | Utilizes the `mxbai-embed-large` model from [Mixedbread AI](https://mixedbread.ai/) for high-quality document embeddings, crucial for Retrieval-Augmented Generation (RAG) and semantic search capabilities within the research assistant. | ![Mixedbread AI Logo](https://mixedbread.ai/favicon.ico) |
+| **Python** | The entire frontend and application logic are developed in Python, ensuring readability, flexibility, and a vast ecosystem of libraries for AI development. | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdgUkYVq9-UPHtkrQyNzA1t-hCdSG65-XYw&s" alt="Python Logo" width="30"/> |
+| **Ollama** | Powers the local large language model inference, allowing Kusanagi-AI to run various models efficiently on your machine without cloud dependencies. It enables seamless management and interaction with models like Llama3, Gemma, Qwen, and TinyLlama. | <img src="https://seeklogo.com/images/O/ollama-logo-F62D6B7A7F-seeklogo.com.png" alt="Ollama Logo" width="30"/> |
+| **MXBAI Embeddings** | Utilizes the `mxbai-embed-large` model from Mixedbread AI for high-quality document embeddings, crucial for Retrieval-Augmented Generation (RAG) and semantic search capabilities within the research assistant. | <img src="https://mixedbread.ai/favicon.ico" alt="Mixedbread AI Logo" width="30"/> |
 
-## Features
+### Features
 
 *   **Local & Private**: All operations are performed 100% offline, guaranteeing your research data remains secure and private on your machine.
 *   **Efficient Local LLM Inference**: Designed to run up to three large language models concurrently on a decent laptop, providing robust AI capabilities without specialized hardware.
@@ -164,16 +158,16 @@ Kusanagi-AI is built with a focus on local execution, privacy, and ease of use, 
 *   **Experimental Chatbots**: A collection of diverse chatbot scripts for exploring different AI models and conversational paradigms.
 *   **AI Visualizer**: Tools and scripts for visualizing AI-related data, concepts, and model outputs, enhancing understanding and interpretation.
 
-## Getting Started
+### Getting Started
 
 Follow these steps to set up your local AI research environment.
 
-### Prerequisites
+#### Prerequisites
 
 *   **Python 3.8+**: The core programming language for Kusanagi-AI.
 *   **Ollama**: Essential for running local large language models. Download and install Ollama from [https://ollama.com/](https://ollama.com/). Kusanagi-AI can also manage the Ollama server for you if configured correctly.
 
-### Installation
+#### Installation
 
 1.  **Clone the repository:**
     ```sh
@@ -187,7 +181,7 @@ Follow these steps to set up your local AI research environment.
     pip install -r requirements.txt
     ```
 
-3.  **Configure the System:**
+3.  **Configure the System**:
     *   Open `System_Config.json` located in the project root.
     *   Ensure `ollama_path` accurately points to your Ollama executable (e.g., `F:\Portable_AI_Assets\ollama_main\ollama.exe`).
     *   Set `model_folder` to the directory where your Ollama models are stored.
@@ -197,7 +191,7 @@ Follow these steps to set up your local AI research environment.
     ollama pull llama3 # or any other preferred chat model
     ```
 
-## Usage
+### Usage
 
 The primary tool in this toolkit is the Research Assistant. To launch it, execute the following command:
 
@@ -207,7 +201,7 @@ python Orochimaru_Local_Research_Assistent.py
 
 Explore other scripts like `OneTail_Local_Chatapp.py` and `Visualize_AI.py` to discover additional functionalities and experiments.
 
-## Portability and Included Assets
+### Portability and Included Assets
 
 Kusanagi-AI is designed for maximum portability and ease of use, incorporating several key components directly within the `Portable_AI_Assets` directory. This approach minimizes initial setup time and ensures a self-contained environment.
 
@@ -252,7 +246,7 @@ This section showcases other key repositories for data analysis, instrument cont
 
 ---
 
-### 🛠️ Core Competencies & Keywords
+## 🛠️ Core Competencies & Keywords
 - **Physics:** Condensed Matter Physics, Materials Science, Multiferroics, Experimental Physics
 - **Programming:** Scientific Computing, Python, PyVISA, Instrument Control, Lab Automation, Data Analysis, Data Visualization
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib
