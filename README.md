@@ -104,7 +104,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="40"/>
         PICA: Python-based Instrument Control & Automation
       </h3>
-      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI, the <b>PICA Launcher</b>, which manages and executes various characterization experiments in materials science research.</p>
+      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research. <b>Note: The repository is temporarily private due to academic publication policies, but a detailed project page is available.</b></p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
@@ -112,9 +112,6 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <img src="https://img.shields.io/badge/Multiprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Multiprocessing"/>
       </div>
       <br>
-      <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
-      </a>
       <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
       </a>
