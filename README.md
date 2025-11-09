@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  
   # Prathamesh Deshmukh
   
   ### Physics PhD Scholar & Scientific Programmer
@@ -52,7 +51,11 @@ Repositories: My primary work is on GitHub. All public repositories are manually
 
 Contact: I'm open to collaborations. Reach me at prathameshnium[at]duck[.]com.
 
+
+
 ---
+
+
 
 ### My Scientific & Technical Toolkit
 
@@ -66,12 +69,12 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_images/logo_dark_background.svg" alt="matplotlib" width="45" height="45"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
-</p>
+    <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
+  </p>
 
 ---
 
-### 🚀 Featured Projects
+  ### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
@@ -87,19 +90,16 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <img src="https://img.shields.io/badge/PyVISA-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyVISA"/>
         <img src="https://img.shields.io/badge/Multiprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Multiprocessing"/>
       </div>
-      <br>
       <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
       </a>
-      <br><br>
       <details>
         <summary><b>How to Cite PICA</b></summary>
-        <br>
         If you use this software in your research, please cite it. This helps to credit the work involved in creating and maintaining this resource.
-        <br><br>
         <b>Using BibTeX</b>
         <p>You can use the following BibTeX entry for your reference manager (e.g., Zotero, Mendeley, JabRef).</p>
 
+```bibtex
 @software{Deshmukh_PICA_2023,
   author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
   title        = {{PICA: Python-based Instrument Control and Automation Software Suite}},
@@ -107,8 +107,9 @@ Here are the primary languages, libraries, and tools I use for research, data an
   year         = 2023,
   publisher    = {GitHub},
   version      = {14.1.0},
-  url          = {[https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation](https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation)}
+  url          = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation}
 }
+```
 
 
         <p>Alternatively, you can use the <code>CITATION.cff</code> file in the root of the <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation">repository</a> for automatic parsing by modern reference managers.</p>
@@ -121,21 +122,31 @@ Here are the primary languages, libraries, and tools I use for research, data an
   </tr>
 </table>
 
----
-
-### Kusanagi-AI: Free & Open-Source Local AI Toolkit
-
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Logo" width="30"/>
-  <br>
-  <small>Image from <a href="https://sword.fandom.com/wiki/Orochimaru's_Sword_of_Kusanagi">sword.fandom.com</a></small>
-</p>
-
-> My latest project is **Kusanagi-AI**, a free and open-source local AI toolkit designed for researchers, especially in Physics and Material Science. It empowers users with privacy-focused AI tools that run efficiently on standard laptops, leveraging Ollama for local large language model inference. The toolkit's flagship application, the "Research Assistant (Orochimaru)," enables Retrieval-Augmented Generation (RAG) with PDF documents, academic review generation, and more, all while ensuring data remains 100% private and offline.
-
----
-
-### 🔬 Highlighted Scientific Projects
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3 style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Logo" width="30"/>
+        Kusanagi-AI: Free & Open-Source Local AI Toolkit
+      </h3>
+      <p>My latest project is <b>Kusanagi-AI</b>, a free and open-source local AI toolkit designed for researchers, especially in Physics and Material Science. It empowers users with privacy-focused AI tools that run efficiently on standard laptops, leveraging Ollama for local large language model inference. The toolkit's flagship application, the "Research Assistant (Orochimaru)," enables Retrieval-Augmented Generation (RAG) with PDF documents, academic review generation, and more, all while ensuring data remains 100% private and offline.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Ollama-232323?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/AI-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+      </div>
+      <a href="https://github.com/prathameshnium/Kusanagi-AI" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Kusanagi-AI GitHub Repo"/>
+      </a>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
+      <img src="https://static.wikia.nocookie.net/sword/images/5/54/Orochimaru%27s_Sword_of_Kusanagi.png/revision/latest?cb=20240901080411" alt="Kusanagi-AI Screenshot Placeholder" width="300"/>
+    </td>
+    </tr>
+  </table>
+  
+  ### 🔬 Highlighted Scientific Projects
 
 This section showcases other key repositories for data analysis, instrument control drivers, and physics simulations.
 
