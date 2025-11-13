@@ -59,14 +59,14 @@ Contact: I'm open to collaborations. Reach me at prathameshnium[at]duck[.]com.
 Here are the primary languages, libraries, and tools I use for research, data analysis, and simulation:
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="60" height="60"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="60" height="60"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/python.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/numpy.svg" alt="numpy" width="45" height="45"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/pandas.svg" alt="pandas" width="45" height="45"/> </a>
+  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/scipy.svg" alt="scipy" width="60" height="60"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/matplotlib.svg" alt="matplotlib" width="60" height="60"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/jupyter.svg" alt="jupyter" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/git.svg" alt="git" width="45" height="45"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/latex.svg" alt="latex" width="45" height="45"/> </a>
 </p>
 
 ---
@@ -77,7 +77,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="40"/>
+        <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA Project Logo" width="40"/>
         PICA: Python-based Instrument Control & Automation
       </h3>
       <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research. <b>Note: The repository is temporarily private due to academic publication policies, but a detailed project page is available.</b></p>
@@ -113,8 +113,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
       </details>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/LOGO/PICA_LOGO_NBG.png" alt="PICA Project Logo" width="120" style="margin-bottom: 15px;"/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/main/_assets/Images/PICA_Laucher_V6.png" alt="PICA Launcher Screenshot" width="300"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA Project Logo" width="120" style="margin-bottom: 15px;"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/pica-launcher-screenshot.png" alt="PICA Launcher Screenshot" width="300"/>
     </td>
   </tr>
 </table>
@@ -123,7 +123,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/prathameshnium/Kusanagi-AI/main/_assets/kusanagi_logo.png" alt="Kusanagi-AI Logo" width="30"/>
+        <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="30"/>
         Kusanagi-AI: Free & Open-Source Local AI Toolkit
       </h3>
       <p>My latest project is <b>Kusanagi-AI</b>, a free and open-source local AI toolkit designed for researchers, especially in Physics and Material Science. It empowers users with privacy-focused AI tools that run efficiently on standard laptops, leveraging Ollama for local large language model inference. The toolkit's flagship application, the "Research Assistant (Orochimaru)," enables Retrieval-Augmented Generation (RAG) with PDF documents, academic review generation, and more, all while ensuring data remains 100% private and offline.</p>
@@ -137,8 +137,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
       </a>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/Kusanagi-AI/main/_assets/kusanagi_logo.png" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/Kusanagi-AI/main/_assets/orochimaru_rag_assistant.png" alt="Kusanagi-AI Screenshot" width="300"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/orochimaru-screenshot.png" alt="Kusanagi-AI Screenshot" width="300"/>
     </td>
     </tr>
   </table>
