@@ -67,14 +67,16 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ---
 
-  ### 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA Project Logo" width="40"/>
-        PICA: Python-based Instrument Control & Automation
+        <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA Project Logo" width="40"/>
+          PICA: Python-based Instrument Control & Automation
+        </a>
       </h3>
       <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research. <b>Note: The repository is temporarily private due to academic publication policies, but a detailed project page is available.</b></p>
       <div>
@@ -119,8 +121,10 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="30"/>
-        Kusanagi-AI: Free & Open-Source Local AI Toolkit
+        <a href="https://github.com/prathameshnium/Kusanagi-AI" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="30"/>
+          Kusanagi-AI: Free & Open-Source Local AI Toolkit
+        </a>
       </h3>
       <p>My latest project is <b>Kusanagi-AI</b>, a free and open-source local AI toolkit designed for researchers, especially in Physics and Material Science. It empowers users with privacy-focused AI tools that run efficiently on standard laptops, leveraging Ollama for local large language model inference. The toolkit's flagship application, the "Research Assistant (Orochimaru)," enables Retrieval-Augmented Generation (RAG) with PDF documents, academic review generation, and more, all while ensuring data remains 100% private and offline.</p>
       <div>
@@ -146,7 +150,10 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        TupperTransformer: Interactive Tupper's Formula Demo
+        <a href="https://github.com/prathameshnium/TupperTransformer" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/tupper-transformer/tupper-transformer-ss.png" alt="TupperTransformer Logo" width="30"/>
+          TupperTransformer: Interactive Tupper's Formula Demo
+        </a>
       </h3>
       <p>Based on my 2018 preprint, <b>TupperTransformer</b> is an interactive demo that shows how to use Tupper's self-referential formula to manipulate bitmap images and create animations just by doing math on the giant k-value. You can draw pixels, transform images, create continuous "frame motion" animations, and try examples from the preprint interactively.</p>
       <div>
@@ -182,8 +189,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/tupper-transformer/tupper-transformer-ss.png" alt="TupperTransformer Screenshot" width="300"/>
     </td>
-    </tr>
-  </table>
+  </tr>
+</table>
   
   ### 🔬 Highlighted Scientific Projects
 
@@ -199,6 +206,33 @@ This section showcases other key repositories for data analysis, instrument cont
 | [**Scientific-Python-Snippets**](https://github.com/prathameshnium/Scientific-Python-Snippets) | A curated collection of reusable Python scripts for common data handling and automation tasks, often packaged with simple Tkinter GUIs. | `Python`, `Tkinter`, `Pandas`       |
 
 ---
+
+### My GitHub Repositories
+
+#### Public Repositories
+
+| Project                               | Description                                                                                                                            | Core Technologies                               |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [prathameshnium](https://github.com/prathameshnium/prathameshnium) | Config files for my GitHub profile. | |
+| [TupperTransformer](https://github.com/prathameshnium/TupperTransformer) | A novel image processing framework for applying transformations (translation, pixel ops) directly to Tupper's high-precision, integer-encoded bitmaps. | `javascript`, `algorithm`, `math`, `image-processing`, `applied-mathematics`, `bigint`, `theory-of-computation`, `HTML` |
+| [Kusanagi-AI](https://github.com/prathameshnium/Kusanagi-AI) | A toolkit of local, privacy-focused AI applications built with Python. Includes a RAG-powered research assistant for PDFs, various chatbots, and visualization scripts. | `Python` |
+| [Prathamesh_Deshmukh_Academic_Portfolio](https://github.com/prathameshnium/Prathamesh_Deshmukh_Academic_Portfolio) | Source code for the academic portfolio of Prathamesh K. Deshmukh (PhD Scholar, Physics). Built with HTML and Tailwind CSS. | `resume`, `github-pages`, `portfolio`, `html5`, `physics`, `personal-website`, `cv`, `HTML` |
+| [static-files](https://github.com/prathameshnium/static-files) | A central repository for static assets (images, logos) used in my projects. | |
+| [Porygons-pixel-lab](https://github.com/prathameshnium/Porygons-pixel-lab) | This repository is a digital workshop for creating beautiful, publication-ready figures, plots, and animations. Just as Porygon is built from code, all visuals here are generated using Python scrip… | `Python` |
+| [Python-for-OriginPro](https://github.com/prathameshnium/Python-for-OriginPro) | A collection of Python scripts using the originpro library to automate plotting and data management tasks in OriginLab's Origin software. | `python`, `pandas`, `data-visualization`, `scientific-computing`, `data-analysis`, `plotting`, `lab-automation`, `Python` |
+| [Scripts](https://github.com/prathameshnium/Scripts) | A personal collection of utility scripts for automating various tasks on Windows and Linux, including batch files for system updates and application launching. | `windows`, `linux`, `shell`, `devops`, `automation`, `jupyter`, `scripts`, `Python` |
+| [Scientific-Python-Snippets](https://github.com/prathameshnium/Scientific-Python-Snippets) | A curated collection of small, reusable Python scripts for common data handling, file manipulation, and automation tasks, often with simple GUI interfaces. | `python`, `snippets`, `gui`, `automation`, `utilities`, `scripting`, `pandas`, `Python` |
+| [Ketron](https://github.com/prathameshnium/Ketron) | An open-source archive of completed projects, shared with the hope they will be useful to the programming community. | `python`, `portfolio`, `latex`, `physics`, `matlab`, `jupyter-notebook`, `scientific-computing` |
+| [Latex-Templates](https://github.com/prathameshnium/Latex-Templates) | | `TeX` |
+| [Physics-Simulation-Toolkit](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | A collection of Python scripts and notebooks for simulating and visualizing phenomena in condensed matter physics, including magnetic ordering and dielectric models. | `python`, `jupyter-notebook`, `scientific-computing`, `ising-model`, `magnetism`, `physics-simulation`, `materials-science`, `Jupyter Notebook` |
+| [Solid-State-Physics-Calculators](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | A collection of Python scripts for analyzing experimental data from solid-state physics, including calculations for activation energy (Arrhenius model) and charge transport parameters (Mott-VRH mod… | `python`, `physics`, `data-analysis`, `solid-state-physics`, `materials-science`, `conductivity`, `arrhenius-plot`, `Jupyter Notebook` |
+
+#### Private Repositories
+
+I also have several private repositories for my research and personal projects. These include:
+- **PICA-Python-Instrument-Control-and-Automation**: A suite of Python scripts using PyVISA to control and automate laboratory instruments (Keithley, Lakeshore, Keysight) for materials science and physics research.
+- **Physics_Data_Fitting_Toolkit**: A toolkit of Python scripts and notebooks for fitting and analyzing experimental data, with a focus on models used in solid-state physics (magnetism, dielectrics).
+- **Physics-Data-Analysis-Scripts**: A collection of Python scripts and notebooks for processing, converting, and analyzing experimental data from physics lab instruments (dielectric spectroscopy, magnetometry, etc.).
 
 ### 🛠️ Core Competencies & Keywords
 - **Physics:** Condensed Matter Physics, Materials Science, Multiferroics, Experimental Physics
