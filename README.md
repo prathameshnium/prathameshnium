@@ -143,8 +143,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/Orochimaru_Screenshot.jpg" alt="Kusanagi-AI Orochimaru Screenshot" width="300" style="margin-bottom: 15px;"/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/One_Tail_Screenshot.jpg" alt="Kusanagi-AI One Tail Screenshot" width="300"/>
+      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/Orochimaru_Screenshot.jpg" alt="Kusanagi-AI Orochimaru Screenshot" width="300"/>
     </td>
     </tr>
   </table>
