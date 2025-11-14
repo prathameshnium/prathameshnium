@@ -157,6 +157,27 @@ Here are the primary languages, libraries, and tools I use for research, data an
       <a href="https://prathameshnium.github.io/TupperTransformer/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View_Interactive_Demo-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="View Interactive Demo"/>
       </a>
+      <details>
+        <summary><b>How to Cite TupperTransformer</b></summary>
+        If you use this work, please cite the original preprint.
+        <br><br>
+        <b>Formatted Citation (APA Style)</b>
+        <p>Deshmukh, P. (2018). <i>Transformation of the pixels in Tupper's self-referential formula</i>. Figshare. https://doi.org/10.6084/m9.figshare.6373046</p>
+
+        <b>BibTeX Citation (Recommended)</b>
+        <p>You can use the following BibTeX entry for your reference manager (e.g., Zotero, Mendeley, JabRef).</p>
+
+```bibtex
+@article{Deshmukh2018,
+  author  = "P Deshmukh",
+  title   = "{Transformation of the pixels in tupper's self-referential formula}",
+  year    = "2018",
+  month   = "6",
+  url     = "https://figshare.com/articles/preprint/Transformation_of_pixels_pdf/6373046",
+  doi     = "10.6084/m9.figshare.6373046.v2"
+}
+```
+      </details>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/tupper-transformer/tupper-transformer-ss.png" alt="TupperTransformer Screenshot" width="300"/>
