@@ -36,10 +36,6 @@
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"/>
     </a>
   </div>
-    
-  <p style="margin-top: 15px;">
-    <img src="https://komarev.com/ghpvc/?username=prathameshnium&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile views counter" />
-  </p>
 </div>
 
 ### About Me
@@ -171,21 +167,8 @@ This section showcases other key repositories for data analysis, instrument cont
 
 <!-- The widgets are arranged in a table-like structure for a clean and organized layout. -->
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&show_owner=true" alt="GitHub stats for Prathamesh Deshmukh showing total stars, commits, and contributions" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshnium&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&exclude_repo=prathameshnium.github.io" alt="Most used languages for Prathamesh Deshmukh, focusing on scientific programming" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathameshnium&repo=Kusanagi-AI&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&border_color=ffab40" alt="Most Starred Repository: Kusanagi-AI" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshnium&theme=dracula" alt="Prathamesh Deshmukh's GitHub Profile Summary" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnium&hide_border=true&background=193549&stroke=FFFFFF&ring=ffab40&fire=ffab40&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Prathamesh Deshmukh's GitHub Streak" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathameshnium&theme=dracula" alt="Prathamesh Deshmukh's Most Commit Language" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathameshnium&theme=dracula&utc_offset=5.5" alt="Prathamesh Deshmukh's Productive Time" />
-  </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=prathameshnium&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" alt="Prathamesh Deshmukh's GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&show_owner=true" alt="GitHub stats for Prathamesh Deshmukh showing total stars, commits, and contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshnium&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&exclude_repo=prathameshnium.github.io" alt="Most used languages for Prathamesh Deshmukh, focusing on scientific programming" />
   
   <h3>Thanks for visiting!</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshnium&hide_border=true&hide_title=false&area=true&bg_color=193549&line=ffab40&point=FFFFFF&area_color=FFFFFF" alt="Prathamesh Deshmukh's GitHub Activity Graph" />
-  <img src="https://raw.githubusercontent.com/prathameshnium/prathameshnium/main/github-contribution-grid-snake.svg" alt="snake" />
 </div>
