@@ -131,10 +131,35 @@ Here are the primary languages, libraries, and tools I use for research, data an
       <a href="https://github.com/prathameshnium/Kusanagi-AI" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Kusanagi-AI GitHub Repo"/>
       </a>
+      <a href="https://prathameshnium.github.io/Kusanagi-AI/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/View_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="View Project Page"/>
+      </a>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/orochimaru-screenshot.png" alt="Kusanagi-AI Screenshot" width="300"/>
+    </td>
+    </tr>
+  </table>
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3 style="display: flex; align-items: center; gap: 10px;">
+        TupperTransformer: Interactive Tupper's Formula Demo
+      </h3>
+      <p>Based on my 2018 preprint, <b>TupperTransformer</b> is an interactive demo that shows how to use Tupper's self-referential formula to manipulate bitmap images and create animations just by doing math on the giant k-value. You can draw pixels, transform images, create continuous "frame motion" animations, and try examples from the preprint interactively.</p>
+      <div>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      </div>
+      <a href="https://prathameshnium.github.io/TupperTransformer/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/View_Interactive_Demo-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="View Interactive Demo"/>
+      </a>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/tupper-transformer/tupper-transformer-ss.png" alt="TupperTransformer Screenshot" width="300"/>
     </td>
     </tr>
   </table>
