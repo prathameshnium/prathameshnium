@@ -40,6 +40,8 @@
 
 ### About Me
 
+I am a Physics PhD scholar specializing in Condensed Matter Physics and Materials Science. My work focuses on developing Python-based solutions for scientific computing, including lab automation, instrument control, data analysis, and data visualization.
+
 Repositories: My primary work is on GitHub. All public repositories are manually mirrored to GitLab every few days as a backup.
 
 Contact: I'm open to collaborations. Reach me at prathameshnium[at]duck[.]com.
@@ -55,14 +57,14 @@ Contact: I'm open to collaborations. Reach me at prathameshnium[at]duck[.]com.
 Here are the primary languages, libraries, and tools I use for research, data analysis, and simulation:
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/python.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/numpy.svg" alt="numpy" width="45" height="45"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/pandas.svg" alt="pandas" width="45" height="45"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/scipy.svg" alt="scipy" width="50" height="50"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/matplotlib.svg" alt="matplotlib" width="120" height="120"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/jupyter.svg" alt="jupyter" width="45" height="45"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/git.svg" alt="git" width="45" height="45"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/latex.svg" alt="latex" width="45" height="45"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/python.svg" alt="Python logo" width="45" height="45"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/numpy.svg" alt="NumPy logo" width="45" height="45"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/pandas.svg" alt="Pandas logo" width="45" height="45"/> </a>
+  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/scipy.svg" alt="SciPy logo" width="50" height="50"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/matplotlib.svg" alt="Matplotlib logo" width="120" height="120"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/jupyter.svg" alt="Jupyter logo" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/git.svg" alt="Git logo" width="45" height="45"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/latex.svg" alt="LaTeX logo" width="45" height="45"/> </a>
 </p>
 
 ---
