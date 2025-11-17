@@ -11,6 +11,12 @@
     <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
     </a>
+    <a href="https://dev.to/prathamesh_phy" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to Profile"/>
+    </a>
+    <a href="https://news.ycombinator.com/submitted?id=prathameshnium" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white" alt="Hacker News Profile"/>
+    </a>
     <a href="https://prathameshdeshmukh.site/pages/blog.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific Blog"/>
     </a>
