@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <h1>Prathamesh Deshmukh</h1>
   
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=prathameshnium&style=for-the-badge" alt="Profile views"/>
+  </p>
+  
   ### Physics PhD Scholar & Scientific Programmer
   
   <p align="center">
