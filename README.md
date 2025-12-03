@@ -90,7 +90,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
           PICA: Python-based Instrument Control & Automation
         </a>
       </h3>
-      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research. <b>Note: The repository is temporarily private due to academic publication policies, but a detailed project page is available.</b></p>
+      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
@@ -113,8 +113,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
   month     = sep,
   year      = {2023},
   publisher = {GitHub},
-  version   = {14.1.0},
-  url       = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/14.1.0}
+  version   = {17.0},
+  url       = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/17.0}
 }
 ```
 
