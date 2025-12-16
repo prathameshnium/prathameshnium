@@ -193,22 +193,9 @@ Here are the primary languages, libraries, and tools I use for research, data an
   </tr>
 </table>
   
-  ### 🔬 Highlighted Scientific Projects
+  
 
-This section showcases other key repositories for data analysis, instrument control drivers, and physics simulations.
-
-| Project                                                               | Description                                                                                                                                     | Core Technologies                   |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [**Academic Portfolio Website**](https://github.com/prathameshnium/prathameshnium.github.io) | Source code for my personal academic portfolio, built with a responsive design to showcase my research, publications, and skills. | `HTML5`, `Tailwind CSS`, `GitHub Pages` |
-| [**Physics-Simulation-Toolkit**](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | Python scripts for simulating and visualizing phenomena in condensed matter physics, such as magnetic ordering and common dielectric models. | `Python`, `Jupyter`, `NumPy`, `SciPy`   |
-| [**Solid-State-Physics-Calculators**](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | Analysis scripts for calculating key experimental solid-state parameters like activation energy (Arrhenius) and charge transport (Mott-VRH). | `Python`, `Pandas`, `Matplotlib`    |
-| [**Python-for-OriginPro**](https://github.com/prathameshnium/Python-for-OriginPro) | Automation scripts leveraging the `originpro` library to streamline plotting and data fitting directly within OriginLab's software environment. | `Python`, `originpro`, `Pandas`     |
-| [**Ketron**](https://github.com/prathameshnium/Ketron)                | An open-source knowledge base and archive of various code snippets, experimental scripts, and small personal projects from my physics research. | `Python`, `Jupyter`, `LaTeX`, `MATLAB`  |
-| [**Scientific-Python-Snippets**](https://github.com/prathameshnium/Scientific-Python-Snippets) | A curated collection of reusable Python scripts for common data handling and automation tasks, often packaged with simple Tkinter GUIs. | `Python`, `Tkinter`, `Pandas`       |
-
----
-
-### My GitHub Repositories
+### 🔬 My Projects & Repositories
 
 #### Public Repositories
 
