@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <h1>Prathamesh Deshmukh</h1>
   
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=prathameshnium&style=for-the-badge" alt="Profile views"/>
+  </p>
+  
   ### Physics PhD Scholar & Scientific Programmer
   
   <p align="center">
@@ -10,6 +14,12 @@
   <div style="margin-bottom: 5px;">
     <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    </a>
+    <a href="https://dev.to/prathamesh_phy" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to Profile"/>
+    </a>
+    <a href="https://news.ycombinator.com/submitted?id=prathameshnium" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white" alt="Hacker News Profile"/>
     </a>
     <a href="https://prathameshdeshmukh.site/pages/blog.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific Blog"/>
@@ -80,7 +90,11 @@ Here are the primary languages, libraries, and tools I use for research, data an
           PICA: Python-based Instrument Control & Automation
         </a>
       </h3>
+<<<<<<< HEAD
       <p>My flagship project, <b>PICA</b> (Python-based Instrument Control and Automation), is a modular, open-source software suite designed to automate advanced transport measurements for electronic devices and chemical samples. It serves as a robust software platform that enables advanced high‑precision characterisation of materials.</p>
+=======
+      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research.</p>
+>>>>>>> 6a9a4b88dbf825d1d7725c284a5cfcd9d7055c2f
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
@@ -99,6 +113,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <p>You can use the following BibTeX entry for your reference manager (e.g., Zotero, Mendeley, JabRef).</p>
 
 ```bibtex
+<<<<<<< HEAD
 @software{Deshmukh_PICA_2025,
   author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
   title        = {{PICA: Advanced Python Suite for High Precision Instrumentation and Transport Measurement Automation}},
@@ -107,6 +122,16 @@ Here are the primary languages, libraries, and tools I use for research, data an
   publisher    = {GitHub},
   version      = {1.0.0},
   url          = {[https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation](https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation)}
+=======
+@software{Deshmukh_PICA_2023,
+  author    = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
+  title     = {{PICA: Python-based Instrument Control and Automation Software Suite}},
+  month     = sep,
+  year      = {2023},
+  publisher = {GitHub},
+  version   = {17.0},
+  url       = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/17.0}
+>>>>>>> 6a9a4b88dbf825d1d7725c284a5cfcd9d7055c2f
 }
 ```
 
