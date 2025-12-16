@@ -80,7 +80,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
           PICA: Python-based Instrument Control & Automation
         </a>
       </h3>
-      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research. <b>Note: The repository is temporarily private due to academic publication policies, but a detailed project page is available.</b></p>
+      <p>My flagship project, <b>PICA</b> (Python-based Instrument Control and Automation), is a modular, open-source software suite designed to automate advanced transport measurements for electronic devices and chemical samples. It serves as a robust software platform that enables advanced high‑precision characterisation of materials.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
@@ -97,14 +97,14 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <p>You can use the following BibTeX entry for your reference manager (e.g., Zotero, Mendeley, JabRef).</p>
 
 ```bibtex
-@software{Deshmukh_PICA_2023,
-  author    = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
-  title     = {{PICA: Python-based Instrument Control and Automation Software Suite}},
-  month     = sep,
-  year      = {2023},
-  publisher = {GitHub},
-  version   = {14.1.0},
-  url       = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/14.1.0}
+@software{Deshmukh_PICA_2025,
+  author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
+  title        = {{PICA: Advanced Python Suite for High Precision Instrumentation and Transport Measurement Automation}},
+  month        = dec,
+  year         = 2025,
+  publisher    = {GitHub},
+  version      = {1.0.0},
+  url          = {[https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation](https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation)}
 }
 ```
 
@@ -231,7 +231,6 @@ This section showcases other key repositories for data analysis, instrument cont
 #### Private Repositories
 
 I also have several private repositories for my research and personal projects. These include:
-- **PICA-Python-Instrument-Control-and-Automation**: A suite of Python scripts using PyVISA to control and automate laboratory instruments (Keithley, Lakeshore, Keysight) for materials science and physics research.
 - **Physics_Data_Fitting_Toolkit**: A toolkit of Python scripts and notebooks for fitting and analyzing experimental data, with a focus on models used in solid-state physics (magnetism, dielectrics).
 - **Physics-Data-Analysis-Scripts**: A collection of Python scripts and notebooks for processing, converting, and analyzing experimental data from physics lab instruments (dielectric spectroscopy, magnetometry, etc.).
 
