@@ -90,11 +90,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
           PICA: Python-based Instrument Control & Automation
         </a>
       </h3>
-<<<<<<< HEAD
       <p>My flagship project, <b>PICA</b> (Python-based Instrument Control and Automation), is a modular, open-source software suite designed to automate advanced transport measurements for electronic devices and chemical samples. It serves as a robust software platform that enables advanced high‑precision characterisation of materials.</p>
-=======
-      <p>My flagship project, <b>PICA</b>, is a modular software suite for automating lab instruments. It features a central GUI that manages and executes various characterization experiments in materials science research.</p>
->>>>>>> 6a9a4b88dbf825d1d7725c284a5cfcd9d7055c2f
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
@@ -113,7 +109,6 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <p>You can use the following BibTeX entry for your reference manager (e.g., Zotero, Mendeley, JabRef).</p>
 
 ```bibtex
-<<<<<<< HEAD
 @software{Deshmukh_PICA_2025,
   author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
   title        = {{PICA: Advanced Python Suite for High Precision Instrumentation and Transport Measurement Automation}},
@@ -122,16 +117,6 @@ Here are the primary languages, libraries, and tools I use for research, data an
   publisher    = {GitHub},
   version      = {1.0.0},
   url          = {[https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation](https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation)}
-=======
-@software{Deshmukh_PICA_2023,
-  author    = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
-  title     = {{PICA: Python-based Instrument Control and Automation Software Suite}},
-  month     = sep,
-  year      = {2023},
-  publisher = {GitHub},
-  version   = {17.0},
-  url       = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/tree/17.0}
->>>>>>> 6a9a4b88dbf825d1d7725c284a5cfcd9d7055c2f
 }
 ```
 
