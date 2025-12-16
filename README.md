@@ -86,6 +86,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
         <img src="https://img.shields.io/badge/PyVISA-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyVISA"/>
         <img src="https://img.shields.io/badge/Multiprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Multiprocessing"/>
+        <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/stargazers"><img src="https://img.shields.io/github/stars/prathameshnium/PICA-Python-Instrument-Control-and-Automation?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars"/></a>
+        <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/network/members"><img src="https://img.shields.io/github/forks/prathameshnium/PICA-Python-Instrument-Control-and-Automation?style=for-the-badge&logo=github&logoColor=white" alt="GitHub forks"/></a>
       </div>
       <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
@@ -133,6 +135,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <img src="https://img.shields.io/badge/Ollama-232323?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/AI-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+        <a href="https://github.com/prathameshnium/Kusanagi-AI/stargazers"><img src="https://img.shields.io/github/stars/prathameshnium/Kusanagi-AI?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars"/></a>
+        <a href="https://github.com/prathameshnium/Kusanagi-AI/network/members"><img src="https://img.shields.io/github/forks/prathameshnium/Kusanagi-AI?style=for-the-badge&logo=github&logoColor=white" alt="GitHub forks"/></a>
       </div>
       <a href="https://github.com/prathameshnium/Kusanagi-AI" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Kusanagi-AI GitHub Repo"/>
@@ -162,6 +166,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <a href="https://github.com/prathameshnium/TupperTransformer/stargazers"><img src="https://img.shields.io/github/stars/prathameshnium/TupperTransformer?style=for-the-.badge&logo=github&logoColor=white" alt="GitHub stars"/></a>
+        <a href="https://github.com/prathameshnium/TupperTransformer/network/members"><img src="https://img.shields.io/github/forks/prathameshnium/TupperTransformer?style=for-the-badge&logo=github&logoColor=white" alt="GitHub forks"/></a>
       </div>
       <a href="https://prathameshnium.github.io/TupperTransformer/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View_Interactive_Demo-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="View Interactive Demo"/>
