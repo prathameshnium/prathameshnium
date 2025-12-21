@@ -79,7 +79,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table width="100%">
   <tr>
@@ -91,6 +91,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
         </a>
       </h3>
       <p>My flagship project, <b>PICA</b> (Python-based Instrument Control and Automation), is a modular, open-source software suite designed to automate advanced transport measurements for electronic devices and chemical samples. It serves as a robust software platform that enables advanced high‑precision characterisation of materials.</p>
+      <p>I am excited to announce the release of PICA v1.0.0! This is the first stable release of the software and includes many new features and bug fixes. You can download the latest release from the <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.0">GitHub releases page</a>.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
@@ -101,6 +102,9 @@ Here are the primary languages, libraries, and tools I use for research, data an
       </div>
       <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
+      </a>
+      <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github" alt="Release v1.0.0"/>
       </a>
       <details>
         <summary><b>How to Cite PICA</b></summary>
@@ -207,7 +211,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   
   
 
-### 🔬 My Projects & Repositories
+### My Projects & Repositories
 
 #### Public Repositories
 
@@ -233,7 +237,7 @@ I also have several private repositories for my research and personal projects. 
 - **Physics_Data_Fitting_Toolkit**: A toolkit of Python scripts and notebooks for fitting and analyzing experimental data, with a focus on models used in solid-state physics (magnetism, dielectrics).
 - **Physics-Data-Analysis-Scripts**: A collection of Python scripts and notebooks for processing, converting, and analyzing experimental data from physics lab instruments (dielectric spectroscopy, magnetometry, etc.).
 
-### 🛠️ Core Competencies & Keywords
+### Core Competencies & Keywords
 - **Physics:** Condensed Matter Physics, Materials Science, Multiferroics, Experimental Physics
 - **Programming:** Scientific Computing, Python, PyVISA, Instrument Control, Lab Automation, Data Analysis, Data Visualization
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib
