@@ -90,51 +90,38 @@ Here are the primary languages, libraries, and tools I use for research, data an
           PICA: Python-based Instrument Control & Automation
         </a>
       </h3>
-      <p>My flagship project, <b>PICA</b> (Python-based Instrument Control and Automation), is a modular, open-source software suite designed to automate advanced transport measurements for electronic devices and chemical samples. It serves as a robust software platform that enables advanced high‑precision characterisation of materials.</p>
-      <p>I am excited to announce the release of PICA v1.0.0! This is the first stable release of the software and includes many new features and bug fixes. You can download the latest release from the <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.0">GitHub releases page</a>.</p>
+      <p><b>PICA</b> is a modular, open-source software suite designed to automate advanced transport measurements for electronic devices and material samples. <i>Note: This software is currently submitted to the <b>Journal of Open Source Software (JOSS)</b>.</i></p>
+      <p>I am excited to announce the release of <b>PICA v1.0.0</b>! This stable release enables high‑precision characterisation of materials with automated instrument control.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Tkinter-2C5985?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
         <img src="https://img.shields.io/badge/PyVISA-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyVISA"/>
-        <img src="https://img.shields.io/badge/Multiprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Multiprocessing"/>
-        <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/stargazers"><img src="https://img.shields.io/github/stars/prathameshnium/PICA-Python-Instrument-Control-and-Automation?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars"/></a>
-        <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/network/members"><img src="https://img.shields.io/github/forks/prathameshnium/PICA-Python-Instrument-Control-and-Automation?style=for-the-badge&logo=github&logoColor=white" alt="GitHub forks"/></a>
+        <img src="https://img.shields.io/badge/Status-JOSS_Submitted-blueviolet?style=for-the-badge" alt="Status"/>
+        <a href="https://doi.org/10.5281/zenodo.18377217"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18377217-blue?style=for-the-badge" alt="DOI Badge"></a>
       </div>
-      <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
-      </a>
+      <br>
       <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github" alt="Release v1.0.0"/>
       </a>
       <details>
         <summary><b>How to Cite PICA</b></summary>
-        If you use this software in your research, please cite it. This helps to credit the work involved in creating and maintaining this resource.
+        <p>If you use this software in your research, please use the following citation:</p>
+        <blockquote>
+          Deshmukh, P. and Mukherjee, S. (2026) “PICA: Advanced High-Precision Transport Measurement Automation with Python”. <i>Zenodo</i>. doi:10.5281/zenodo.18377217.
+        </blockquote>
         <b>Using BibTeX</b>
-        <p>You can use the following BibTeX entry for your reference manager (e.g., Zotero, Mendeley, JabRef).</p>
-
-```bibtex
-@software{Deshmukh_PICA_2025,
+<blockquote>
+@software{Deshmukh_PICA_2026,
   author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
-  title        = {{PICA: Advanced Python Suite for High Precision Instrumentation and Transport Measurement Automation}},
-  month        = dec,
-  year         = 2025,
-  publisher    = {GitHub},
+  title        = {{PICA: Advanced High-Precision Transport Measurement Automation with Python}},
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
   version      = {1.0.0},
-  url          = {[https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation](https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation)}
+  doi          = {10.5281/zenodo.18377217},
+  url          = {[https://doi.org/10.5281/zenodo.18377217](https://doi.org/10.5281/zenodo.18377217)},
+  note         = {Submitted to the Journal of Open Source Software (JOSS)}
 }
-```
-
-
-        <p>Here is the repo link: <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation">https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation</a></p>
-      </details>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA Project Logo" width="120" style="margin-bottom: 15px;"/>
-      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/pica-launcher-screenshot.png" alt="PICA Launcher Screenshot" width="300"/>
-    </td>
-  </tr>
-</table>
-
+</blockquote>
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
