@@ -12,40 +12,52 @@
   </p>
   
   <div style="margin-bottom: 5px;">
-    <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>
-    <a href="https://dev.to/prathamesh_phy" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to Profile"/>
-    </a>
-    <a href="https://news.ycombinator.com/submitted?id=prathameshnium" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white" alt="Hacker News Profile"/>
-    </a>
-    <a href="https://prathameshdeshmukh.site/pages/blog.html" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific Blog"/>
-    </a>
-    <a href="https://prathameshdeshmukh.site/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website and Portfolio"/>
-    </a>
-    <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
+    <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"/>
     </a>
     <a href="https://orcid.org/0009-0008-3278-0837" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile"/>
     </a>
-    <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus Profile"/>
+    <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    </a>
+    <a href="https://prathameshdeshmukh.site/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website and Portfolio"/>
     </a>
     <a href="https://prathameshdeshmukh.site/pages/cv.html" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Download_CV-F6AD55?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Download CV"/>
     </a>
-    <a href="https://www.researchgate.net/profile/Prathamesh-Deshmukh-6" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"/>
-    </a>
-    <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"/>
-    </a>
   </div>
+
+  <details>
+    <summary><b>Show More Socials & Academic Profiles</b></summary>
+    <div style="padding-top: 5px;">
+      <a href="https://bsky.app/profile/prathameshnium.bsky.social" target="_blank" rel="noopener noreferrer">
+         <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Profile"/>
+      </a>
+      <a href="https://fediscience.org/@prathamesh" target="_blank" rel="noopener noreferrer">
+         <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Profile"/>
+      </a>
+      <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
+      </a>
+      <a href="https://www.researchgate.net/profile/Prathamesh-Deshmukh-6" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"/>
+      </a>
+      <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus Profile"/>
+      </a>
+      <a href="https://dev.to/prathamesh_phy" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to Profile"/>
+      </a>
+      <a href="https://news.ycombinator.com/submitted?id=prathameshnium" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white" alt="Hacker News Profile"/>
+      </a>
+      <a href="https://prathameshdeshmukh.site/pages/blog.html" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific Blog"/>
+      </a>
+    </div>
+  </details>
 </div>
 
 ### About Me
@@ -190,7 +202,7 @@ I am a Physics PhD scholar specializing in Condensed Matter Physics and Material
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&show_owner=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshnium&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&exclude_repo=prathameshnium.github.io" alt="Languages" />
+
   
   <h3>Thanks for visiting!</h3>
 </div>
