@@ -8,7 +8,8 @@
   ### Physics PhD Scholar & Scientific Programmer
   
   <p align="center">
-    Doctoral researcher at the UGC-DAE Consortium for Scientific Research (Mumbai) specializing in Condensed Matter Physics and Materials Science. I develop robust Python solutions for lab automation, instrument control, and advanced data analysis.
+    Doctoral researcher at the UGC-DAE Consortium for Scientific Research (Mumbai), working at the intersection of <b>Condensed Matter Physics</b> and <b>Research Software Engineering</b>. <br>
+    My work focuses on bridging the gap between experimental physics and code, developing open-source Python tools for <b>lab automation (DAQ)</b>, <b>instrument control</b>, and <b>reproducible data analysis</b>.
   </p>
   
   <div style="margin-bottom: 5px;">
@@ -33,10 +34,10 @@
     <summary><b>Show More Socials & Academic Profiles</b></summary>
     <div style="padding-top: 5px;">
       <a href="https://bsky.app/profile/prathameshnium.bsky.social" target="_blank" rel="noopener noreferrer">
-         <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Profile"/>
+          <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Profile"/>
       </a>
       <a href="https://fediscience.org/@prathamesh" target="_blank" rel="noopener noreferrer">
-         <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Profile"/>
+          <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Profile"/>
       </a>
       <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
@@ -62,10 +63,10 @@
 
 ### About Me
 
-I am a Physics PhD scholar specializing in Condensed Matter Physics and Materials Science. My work focuses on developing Python-based solutions for scientific computing, including lab automation, instrument control, data analysis, and data visualization.
+I am a PhD student specializing in **Condensed Matter Physics** and **Materials Science**. My research requires handling complex experimental datasets, which drives my passion for **Scientific Computing**. I build tools to automate the tedious parts of physics from controlling hardware to standardising analysis pipelines.
 
 * **Repositories:** My primary work is on GitHub. Public repositories are mirrored to GitLab every few days as a backup.
-* **Contact:** Open to collaborations. Reach me at `prathameshnium[at]duck[.]com`.
+* **Contact:** Open to academic collaborations. Reach me at `prathameshnium[at]duck[.]com`.
 
 ---
 
@@ -95,7 +96,7 @@ I am a Physics PhD scholar specializing in Condensed Matter Physics and Material
           PICA: Python-based Instrument Control & Automation
         </a>
       </h3>
-      <p><b>PICA</b> is my flagship modular software suite designed for high-precision characterization and transport measurement automation. <i>Currently submitted to the <b>Journal of Open Source Software (JOSS)</b>.</i></p>
+      <p><b>PICA</b> is a modular framework I developed to automate high-precision characterization and transport measurements in the lab. It standardizes the workflow from <b>Data Acquisition (DAQ)</b> to analysis. <i>Submitted to the <b>Journal of Open Source Software (JOSS)</b>.</i></p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Status-JOSS_Submitted-blueviolet?style=for-the-badge" alt="JOSS Status"/>
@@ -113,15 +114,15 @@ I am a Physics PhD scholar specializing in Condensed Matter Physics and Material
         </blockquote>
         <b>BibTeX:</b>
         <pre><code>@software{Deshmukh_PICA_2026,
-  author       = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
-  title        = {{PICA: Advanced High-Precision Transport Measurement Automation with Python}},
-  month        = jan,
-  year         = 2026,
-  publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.18377217},
-  url          = {https://doi.org/10.5281/zenodo.18377217},
-  note         = {Submitted to the Journal of Open Source Software (JOSS)}
+  author        = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
+  title         = {{PICA: Advanced High-Precision Transport Measurement Automation with Python}},
+  month         = jan,
+  year          = 2026,
+  publisher     = {Zenodo},
+  version       = {1.0.0},
+  doi           = {10.5281/zenodo.18377217},
+  url           = {https://doi.org/10.5281/zenodo.18377217},
+  note          = {Submitted to the Journal of Open Source Software (JOSS)}
 }</code></pre>
       </details>
     </td>
@@ -197,12 +198,11 @@ I am a Physics PhD scholar specializing in Condensed Matter Physics and Material
 ---
 
 ### Core Competencies
-- **Physics:** Condensed Matter, Materials Science, Multiferroics, Experimental characterization.
-- **Programming:** Lab Automation (PyVISA), Scientific Computing, Data Pipelines, GUI Development (Tkinter).
+- **Physics:** Condensed Matter, Materials Science, Multiferroics, Experimental Characterization.
+- **Programming:** Instrument Control & DAQ (PyVISA), Scientific Workflows, Data Pipelines, GUI Development (Tkinter).
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&show_owner=true" alt="GitHub stats" />
-
   
   <h3>Thanks for visiting!</h3>
 </div>
