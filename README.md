@@ -5,11 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=prathameshnium&style=for-the-badge" alt="Profile views"/>
   </p>
   
-  ### Physics PhD Scholar & Scientific Programmer
+  ### Physics PhD Scholar & Research Software Engineer
   
   <p align="center">
-    Doctoral researcher at the UGC-DAE Consortium for Scientific Research (Mumbai), working at the intersection of <b>Condensed Matter Physics</b> and <b>Research Software Engineering</b>. <br>
-    My work focuses on bridging the gap between experimental physics and code, developing open-source Python tools for <b>lab automation (DAQ)</b>, <b>instrument control</b>, and <b>reproducible data analysis</b>.
+    Doctoral researcher at the UGC-DAE Consortium for Scientific Research (Mumbai), working at the intersection of <b>Condensed Matter Physics</b> and <b>Computational Science</b>. <br>
+    I specialize in the <b>full research stack</b>: from designing cryogenic hardware and automating data acquisition to developing simulation models and AI-driven analysis tools.
   </p>
   
   <div style="margin-bottom: 5px;">
@@ -63,10 +63,11 @@
 
 ### About Me
 
-I am a PhD student specializing in **Condensed Matter Physics** and **Materials Science**. My research requires handling complex experimental datasets, which drives my passion for **Scientific Computing**. I build tools to automate the tedious parts of physics from controlling hardware to standardising analysis pipelines.
+I am a PhD student in **Condensed Matter Physics** with a focus on **Materials Science** and **Scientific Computing**. My goal is to modernize experimental physics by building open-source tools that bridge the gap between **lab hardware**, **data acquisition**, and **theoretical modeling**.
 
+* **Looking for:** Postdoctoral opportunities in Condensed Matter or Computational Physics.
 * **Repositories:** My primary work is on GitHub. Public repositories are mirrored to GitLab every few days as a backup.
-* **Contact:** Open to academic collaborations. Reach me at `prathameshnium[at]duck[.]com`.
+* **Contact:** Reach me at `prathameshnium[at]duck[.]com`.
 
 ---
 
@@ -85,7 +86,7 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
 
 ---
 
-### Featured Projects
+### Featured Projects: The Research Pipeline
 
 <table width="100%">
   <tr>
@@ -93,10 +94,10 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
       <h3 style="display: flex; align-items: center; gap: 10px;">
         <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
           <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA Logo" width="40"/>
-          PICA: Python-based Instrument Control & Automation
+          PICA: Instrument Control & Automation
         </a>
       </h3>
-      <p><b>PICA</b> is a modular framework I developed to automate high-precision characterization and transport measurements in the lab. It standardizes the workflow from <b>Data Acquisition (DAQ)</b> to analysis. <i>Submitted to the <b>Journal of Open Source Software (JOSS)</b>.</i></p>
+      <p><b>PICA</b> is a modular framework I developed to automate high-precision characterization and transport measurements. It standardizes the workflow from <b>Data Acquisition (DAQ)</b> to analysis. <i>Submitted to the <b>Journal of Open Source Software (JOSS)</b>.</i></p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <a href="https://doi.org/10.5281/zenodo.18377217"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18377217.svg" alt="DOI Badge"></a>
@@ -105,25 +106,6 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
       <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.0">
           <img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github" alt="v1.0.0"/>
       </a>
-      <details>
-        <summary><b>How to Cite PICA</b></summary>
-        <p>If you use PICA in your research, please cite it as:</p>
-        <blockquote>
-          Deshmukh, P. and Mukherjee, S. (2026) “PICA: Advanced High-Precision Transport Measurement Automation with Python”. <i>Zenodo</i>. doi:10.5281/zenodo.18377217.
-        </blockquote>
-        <b>BibTeX:</b>
-        <pre><code>@software{Deshmukh_PICA_2026,
-  author        = {Deshmukh, Prathamesh Keshao and Mukherjee, Sudip},
-  title         = {{PICA: Advanced High-Precision Transport Measurement Automation with Python}},
-  month         = jan,
-  year          = 2026,
-  publisher     = {Zenodo},
-  version       = {1.0.0},
-  doi           = {10.5281/zenodo.18377217},
-  url           = {https://doi.org/10.5281/zenodo.18377217},
-  note          = {Submitted to the Journal of Open Source Software (JOSS)}
-}</code></pre>
-      </details>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/pica-launcher-screenshot.png" alt="PICA Screenshot" width="300"/>
@@ -135,16 +117,34 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        <a href="https://github.com/prathameshnium/Kusanagi-AI" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi Logo" width="30"/>
-          Kusanagi-AI: Local AI Toolkit for Researchers
+        <a href="https://github.com/prathameshnium/ATMS-Hardware" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
+          ATMS: Advanced Transport Measurement System
         </a>
       </h3>
-      <p>A privacy-focused AI toolkit leveraging <b>Ollama</b>. Includes "Orochimaru," a RAG-powered assistant for local PDF analysis and academic review generation.</p>
+      <p>Hardware reference design for a modular <b>cryogenic platform</b> optimized for high-impedance transport, pyroelectric, and magnetodielectric characterization in <b>PPMS (14T)</b> environments.</p>
+      <div>
+         <img src="https://img.shields.io/badge/Hardware-FFA500?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware"/>
+         <img src="https://img.shields.io/badge/Cryogenics-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white" alt="Cryogenics"/>
+      </div>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3 style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://github.com/prathameshnium/Kusanagi-AI" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi Logo" width="30"/>
+          Kusanagi-AI: AI Toolkit for Research
+        </a>
+      </h3>
+      <p>A privacy-focused AI toolkit leveraging <b>Local LLMs</b> (Ollama). Includes "Orochimaru," a RAG-powered assistant for analyzing academic papers (PDFs) and generating literature reviews.</p>
       <div>
         <img src="https://img.shields.io/badge/Ollama-232323?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/AI-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI"/>
+        <img src="https://img.shields.io/badge/RAG-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
       </div>
       <br>
       <a href="https://prathameshnium.github.io/Kusanagi-AI/">
@@ -157,37 +157,22 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3 style="display: flex; align-items: center; gap: 10px;">
-        <a href="https://github.com/prathameshnium/ATMS-Hardware" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
-          ATMS-Hardware: Advanced Transport Measurement System
-        </a>
-      </h3>
-      <p>Hardware reference design and supplementary specifications for the <b>Advanced Transport Measurement System (ATMS)</b>. A modular cryogenic platform optimized for high-impedance transport, pyroelectric, and magnetodielectric characterization in PPMS (14T) and LN2 environments.</p>
-    </td>
-  </tr>
-</table>
-
 ---
 
-### My Projects & Repositories
+### Computational Physics & Analysis Tools
 
-#### Public Repositories
-
-| Project | Description | Core Tech |
+| Repository | Focus Area | Tech Stack |
 | :--- | :--- | :--- |
-| [TupperTransformer](https://github.com/prathameshnium/TupperTransformer) | Interactive bitmap math framework for Tupper's formula. | `JavaScript` |
-| [Physics-Simulation-Toolkit](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | Simulations for Condensed Matter (Ising model, magnetism). | `Jupyter` |
-| [Solid-State-Calculators](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | Data analysis for Arrhenius and Mott-VRH models. | `Python` |
-| [Python-for-OriginPro](https://github.com/prathameshnium/Python-for-OriginPro) | Automation scripts for OriginLab software. | `Pandas` |
+| [Physics-Simulation-Toolkit](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | **Condensed Matter Simulations:** Ising model, Magnetic ordering, Dielectric relaxation. | `Python`, `Jupyter` |
+| [Solid-State-Calculators](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | **Data Analysis:** Arrhenius plots, Mott-VRH transport models, Activation energy. | `Python`, `SciPy` |
+| [TupperTransformer](https://github.com/prathameshnium/TupperTransformer) | **Algorithms:** Interactive bitmap math framework for Tupper's self-referential formula. | `JavaScript`, `Math` |
+| [Python-for-OriginPro](https://github.com/prathameshnium/Python-for-OriginPro) | **Lab Automation:** Scripts to automate plotting and data management in OriginLab. | `Pandas`, `OriginC` |
 
 ---
 
 ### Core Competencies
-- **Physics:** Condensed Matter, Materials Science, Multiferroics, Experimental Characterization.
-- **Programming:** Instrument Control & DAQ (PyVISA), Scientific Workflows, Data Pipelines, GUI Development (Tkinter).
+- **Experimental Physics:** Low-temperature transport, Dielectric Spectroscopy, Magnetometry.
+- **Scientific Computing:** Instrument Control (PyVISA), Data Pipelines, Simulation, Local AI (RAG).
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&show_owner=true" alt="GitHub stats" />
