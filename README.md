@@ -99,7 +99,6 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
       <p><b>PICA</b> is a modular framework I developed to automate high-precision characterization and transport measurements in the lab. It standardizes the workflow from <b>Data Acquisition (DAQ)</b> to analysis. <i>Submitted to the <b>Journal of Open Source Software (JOSS)</b>.</i></p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Status-JOSS_Submitted-blueviolet?style=for-the-badge" alt="JOSS Status"/>
         <a href="https://doi.org/10.5281/zenodo.18377217"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18377217.svg" alt="DOI Badge"></a>
       </div>
       <br>
@@ -160,24 +159,13 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="100%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
-        <a href="https://github.com/prathameshnium/TupperTransformer" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
-          TupperTransformer: Interactive Bitmap Math
+        <a href="https://github.com/prathameshnium/ATMS-Hardware" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">
+          ATMS-Hardware: Advanced Transport Measurement System
         </a>
       </h3>
-      <p>An interactive framework for applying transformations directly to Tupper's high-precision, integer-encoded bitmaps. Based on my 2018 preprint.</p>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      </div>
-      <br>
-      <a href="https://prathameshnium.github.io/TupperTransformer/">
-          <img src="https://img.shields.io/badge/View_Demo-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Demo"/>
-      </a>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/tupper-transformer/tupper-transformer-ss.png" alt="Tupper Screenshot" width="300"/>
+      <p>Hardware reference design and supplementary specifications for the <b>Advanced Transport Measurement System (ATMS)</b>. A modular cryogenic platform optimized for high-impedance transport, pyroelectric, and magnetodielectric characterization in PPMS (14T) and LN2 environments.</p>
     </td>
   </tr>
 </table>
@@ -190,7 +178,7 @@ I am a PhD student specializing in **Condensed Matter Physics** and **Materials 
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
-| [Porygons-pixel-lab](https://github.com/prathameshnium/Porygons-pixel-lab) | Digital workshop for publication-ready figures and animations. | `Python` |
+| [TupperTransformer](https://github.com/prathameshnium/TupperTransformer) | Interactive bitmap math framework for Tupper's formula. | `JavaScript` |
 | [Physics-Simulation-Toolkit](https://github.com/prathameshnium/Physics-Simulation-Toolkit) | Simulations for Condensed Matter (Ising model, magnetism). | `Jupyter` |
 | [Solid-State-Calculators](https://github.com/prathameshnium/Solid-State-Physics-Calculators) | Data analysis for Arrhenius and Mott-VRH models. | `Python` |
 | [Python-for-OriginPro](https://github.com/prathameshnium/Python-for-OriginPro) | Automation scripts for OriginLab software. | `Pandas` |
