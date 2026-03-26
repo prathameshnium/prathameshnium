@@ -1,70 +1,68 @@
 <div id="header" align="center">
+  <h1>Prathamesh Deshmukh</h1>
 
-<h1>Prathamesh Deshmukh</h1>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=prathameshnium&style=for-the-badge" alt="Profile views"/>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathameshnium&style=for-the-badge" alt="Profile views"/>
-</p>
+  ### Physics PhD Scholar & Research Software Engineer
 
-### Physics PhD Scholar & Research Software Engineer
+  <p align="center">
+    Doctoral researcher at the <b>UGC-DAE Consortium for Scientific Research (Mumbai)</b>,
+    working at the intersection of <b>Condensed Matter Physics</b> and
+    <b>Computational Science</b>.<br/>
+    I cover the <b>full research stack</b> — from designing cryogenic hardware
+    and automating data acquisition to building simulation models and
+    AI-driven analysis tools.
+  </p>
 
-<p align="center">
-  Doctoral researcher at the <b>UGC-DAE Consortium for Scientific Research (Mumbai)</b>,
-  working at the intersection of <b>Condensed Matter Physics</b> and
-  <b>Computational Science</b>.<br/>
-  I cover the <b>full research stack</b> — from designing cryogenic hardware
-  and automating data acquisition to building simulation models and
-  AI-driven analysis tools.
-</p>
-
-<div style="margin-bottom: 5px;">
-  <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  </a>
-  <a href="https://orcid.org/0009-0008-3278-0837">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
-  <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://prathameshdeshmukh.site/">
-    <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://prathameshdeshmukh.site/pages/cv.html">
-    <img src="https://img.shields.io/badge/CV-F6AD55?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-  </a>
-</div>
-
-<details>
-  <summary><b>More Profiles</b></summary>
-  <div style="padding-top: 5px;">
-    <a href="https://bsky.app/profile/prathameshnium.bsky.social">
-      <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+  <div style="margin-bottom: 5px;">
+    <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao">
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
     </a>
-    <a href="https://fediscience.org/@prathamesh">
-      <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+    <a href="https://orcid.org/0009-0008-3278-0837">
+      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
     </a>
-    <a href="https://x.com/prathameshnium">
-      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.researchgate.net/profile/Prathamesh-Deshmukh-6">
-      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+    <a href="https://prathameshdeshmukh.site/">
+      <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logoColor=white"/>
     </a>
-    <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300">
-      <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logoColor=white"/>
-    </a>
-    <a href="https://dev.to/prathamesh_phy">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-    </a>
-    <a href="https://news.ycombinator.com/submitted?id=prathameshnium">
-      <img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white"/>
-    </a>
-    <a href="https://prathameshdeshmukh.site/pages/blog.html">
-      <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white"/>
+    <a href="https://prathameshdeshmukh.site/pages/cv.html">
+      <img src="https://img.shields.io/badge/CV-F6AD55?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
     </a>
   </div>
-</details>
 
+  <details>
+    <summary><b>More Profiles</b></summary>
+    <div style="padding-top: 5px;">
+      <a href="https://bsky.app/profile/prathameshnium.bsky.social">
+        <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+      </a>
+      <a href="https://fediscience.org/@prathamesh">
+        <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+      </a>
+      <a href="https://x.com/prathameshnium">
+        <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+      </a>
+      <a href="https://www.researchgate.net/profile/Prathamesh-Deshmukh-6">
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+      </a>
+      <a href="https://www.scopus.com/authid/detail.uri?authorId=59544780300">
+        <img src="https://img.shields.io/badge/Scopus-E9711A?style=for-the-badge&logoColor=white"/>
+      </a>
+      <a href="https://dev.to/prathamesh_phy">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+      </a>
+      <a href="https://news.ycombinator.com/submitted?id=prathameshnium">
+        <img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white"/>
+      </a>
+      <a href="https://prathameshdeshmukh.site/pages/blog.html">
+        <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white"/>
+      </a>
+    </div>
+  </details>
 </div>
 
 ---
@@ -211,8 +209,10 @@ data acquisition, and theoretical modelling.
 - **Experimental:** Low-temperature transport · Dielectric spectroscopy · Magnetometry
 - **Computing:** Instrument control (PyVISA) · Data pipelines · Simulation · Local AI (RAG)
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshnium&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=193549&title_color=ffab40&text_color=FFFFFF&icon_color=ffab40&show_owner=true" alt="GitHub Stats"/>
 
   <h3>Thanks for visiting!</h3>
 </div>
