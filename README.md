@@ -11,7 +11,7 @@
     Doctoral researcher at the <b>UGC-DAE Consortium for Scientific Research (Mumbai)</b>,
     working at the intersection of <b>Condensed Matter Physics</b> and
     <b>Computational Science</b>.<br/>
-    I cover the <b>full research stack</b> — from designing cryogenic hardware
+    I cover the <b>full research stack</b>:  from designing cryogenic hardware
     and automating data acquisition to building simulation models and
     AI-driven analysis tools.
   </p>
