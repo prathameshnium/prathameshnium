@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific Blog"/>
     </a>
     <a href="https://prathameshdeshmukh.site/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website and Portfolio"/>
+      <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website and Portfolio"/>
     </a>
     <a href="https://x.com/prathameshnium" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/>
@@ -56,11 +56,7 @@ Repositories: My primary work is on GitHub. All public repositories are manually
 
 Contact: I'm open to collaborations. Reach me at prathameshnium[at]duck[.]com.
 
-
-
 ---
-
-
 
 ### My Scientific & Technical Toolkit
 
@@ -70,8 +66,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/python.svg" alt="Python logo" width="45" height="45"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/numpy.svg" alt="NumPy logo" width="45" height="45"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/pandas.svg" alt="Pandas logo" width="45" height="45"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/scipy.svg" alt="SciPy logo" width="50" height="50"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/matplotlib.svg" alt="Matplotlib logo" width="120" height="120"/> </a>
+  <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/scipy.svg" alt="SciPy logo" width="45" height="45"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib logo" width="45" height="45"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/jupyter.svg" alt="Jupyter logo" width="45" height="45"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/git.svg" alt="Git logo" width="45" height="45"/> </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/icons/latex.svg" alt="LaTeX logo" width="45" height="45"/> </a>
@@ -101,7 +97,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/network/members"><img src="https://img.shields.io/github/forks/prathameshnium/PICA-Python-Instrument-Control-and-Automation?style=for-the-badge&logo=github&logoColor=white" alt="GitHub forks"/></a>
       </div>
       <a href="https://prathameshdeshmukh.site/pages/project-pica.html" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="Read Project Page"/>
+          <img src="https://img.shields.io/badge/Read_Project_Page-6C93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Read Project Page"/>
       </a>
       <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github" alt="Release v1.0.0"/>
@@ -120,7 +116,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
   year         = 2025,
   publisher    = {GitHub},
   version      = {1.0.0},
-  url          = {[https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation](https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation)}
+  url          = {https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation}
 }
 ```
 
@@ -140,7 +136,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
         <a href="https://github.com/prathameshnium/Kusanagi-AI" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="30"/>
+          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="40"/>
           Kusanagi-AI: Free & Open-Source Local AI Toolkit
         </a>
       </h3>
@@ -154,22 +150,22 @@ Here are the primary languages, libraries, and tools I use for research, data an
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Kusanagi-AI GitHub Repo"/>
       </a>
       <a href="https://prathameshnium.github.io/Kusanagi-AI/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_Project_Page-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="View Project Page"/>
+          <img src="https://img.shields.io/badge/View_Project_Page-6C93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project Page"/>
       </a>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/logo/Kusanagi-AI.png" alt="Kusanagi-AI Logo" width="120" style="margin-bottom: 15px;"/>
       <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/Orochimaru_Screenshot.jpg" alt="Kusanagi-AI Orochimaru Screenshot" width="300"/>
     </td>
-    </tr>
-  </table>
+  </tr>
+</table>
 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
       <h3 style="display: flex; align-items: center; gap: 10px;">
         <a href="https://github.com/prathameshnium/TupperTransformer" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/tupper-transformer/tupper-transformer-ss.png" alt="TupperTransformer Logo" width="30"/>
+          <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/tupper-transformer/tupper-transformer-ss.png" alt="TupperTransformer Logo" width="40"/>
           TupperTransformer: Interactive Tupper's Formula Demo
         </a>
       </h3>
@@ -180,7 +176,7 @@ Here are the primary languages, libraries, and tools I use for research, data an
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       </div>
       <a href="https://prathameshnium.github.io/TupperTransformer/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View_Interactive_Demo-6C93C4?style=for-the-badge&logo=website&logoColor=white" alt="View Interactive Demo"/>
+          <img src="https://img.shields.io/badge/View_Interactive_Demo-6C93C4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Interactive Demo"/>
       </a>
       <details>
         <summary><b>How to Cite TupperTransformer</b></summary>
@@ -208,8 +204,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
     </td>
   </tr>
 </table>
-  
-  
+
+---
 
 ### My Projects & Repositories
 
@@ -236,6 +232,8 @@ Here are the primary languages, libraries, and tools I use for research, data an
 I also have several private repositories for my research and personal projects. These include:
 - **Physics_Data_Fitting_Toolkit**: A toolkit of Python scripts and notebooks for fitting and analyzing experimental data, with a focus on models used in solid-state physics (magnetism, dielectrics).
 - **Physics-Data-Analysis-Scripts**: A collection of Python scripts and notebooks for processing, converting, and analyzing experimental data from physics lab instruments (dielectric spectroscopy, magnetometry, etc.).
+
+---
 
 ### Core Competencies & Keywords
 - **Physics:** Condensed Matter Physics, Materials Science, Multiferroics, Experimental Physics
