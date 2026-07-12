@@ -5,15 +5,14 @@
     <img src="https://komarev.com/ghpvc/?username=prathameshnium&style=for-the-badge" alt="Profile views"/>
   </p>
 
-  ### Physics PhD Scholar & Research Software Engineer
+  ### Physics PhD Scholar
 
   <p align="center">
     Doctoral researcher at the <b>UGC-DAE Consortium for Scientific Research (Mumbai)</b>,
     working at the intersection of <b>Condensed Matter Physics</b> and
     <b>Computational Science</b>.<br/>
     I cover the <b>full research stack</b>: from designing cryogenic hardware
-    and automating data acquisition to building simulation models and
-    AI-driven analysis tools.
+    and automating data acquisition to building simulation models and analysis tools.
   </p>
 
   <div style="margin-bottom: 5px;">
