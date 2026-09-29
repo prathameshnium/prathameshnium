@@ -25,11 +25,8 @@
     <a href="https://in.linkedin.com/in/prathamesh-k-deshmukh">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Prathamesh Deshmukh"/>
     </a>
-    <a href="https://prathameshdeshmukh.site/">
+    <a href="https://prathameshnium.github.io/">
       <img src="https://img.shields.io/badge/Website-6C93C4?style=for-the-badge&logoColor=white" alt="Personal website and academic portfolio of Prathamesh Deshmukh"/>
-    </a>
-    <a href="https://prathameshdeshmukh.site/pages/cv.html">
-      <img src="https://img.shields.io/badge/CV-F6AD55?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Curriculum vitae of Prathamesh Deshmukh"/>
     </a>
   </div>
 
@@ -56,9 +53,6 @@
       </a>
       <a href="https://news.ycombinator.com/submitted?id=prathameshnium">
         <img src="https://img.shields.io/badge/Hacker_News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white" alt="Hacker News submissions by Prathamesh Deshmukh"/>
-      </a>
-      <a href="https://prathameshdeshmukh.site/pages/blog.html">
-        <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=blogger&logoColor=white" alt="Scientific blog of Prathamesh Deshmukh"/>
       </a>
     </div>
   </details>
@@ -117,7 +111,7 @@ seamlessly connect lab hardware, data acquisition, and theoretical modelling.
   <tr>
     <td width="65%" valign="top">
       <h3>
-        <a href="https://prathameshdeshmukh.site/pages/project-pica.html">
+        <a href="https://pica-python-instrument-control-and-automation.readthedocs.io/en/latest/">
           <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA logo" width="40" valign="middle"/>
           PICA — Python Instrument Control & Automation
         </a>
@@ -132,13 +126,16 @@ seamlessly connect lab hardware, data acquisition, and theoretical modelling.
       <a href="https://doi.org/10.5281/zenodo.18377217">
         <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18377217.svg" alt="Zenodo DOI 10.5281/zenodo.18377217 for PICA"/>
       </a>
+      <a href="https://pypi.org/project/pica-suite/">
+        <img src="https://img.shields.io/pypi/v/pica-suite?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI" alt="PICA on PyPI"/>
+      </a>
       <br/><br/>
-      <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.0">
-        <img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github" alt="PICA release v1.0.0 on GitHub"/>
+      <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases/tag/v1.0.5">
+        <img src="https://img.shields.io/github/v/release/prathameshnium/PICA-Python-Instrument-Control-and-Automation?style=for-the-badge&logo=github" alt="Latest PICA release on GitHub"/>
       </a>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/pica-launcher-screenshot.png" alt="Screenshot of the PICA instrument-control launcher application" width="300"/>
+      <img src="assets/pica-launcher-screenshot.png" alt="Screenshot of the PICA launcher showing the available measurement modules" width="300"/>
     </td>
   </tr>
 </table>
@@ -147,17 +144,22 @@ seamlessly connect lab hardware, data acquisition, and theoretical modelling.
   <tr>
     <td width="65%" valign="top">
       <h3>
-        <a href="https://github.com/prathameshnium/ATMS-Hardware">
-          ATMS — Advanced Transport Measurement System
+        <a href="https://github.com/prathameshnium/ITMS-Hardware">
+          ITMS — Integrated Transport Measurement System
         </a>
       </h3>
       <p>
         Open hardware reference design for a modular <b>cryogenic platform</b>
         optimised for high-impedance transport, pyroelectric, and
-        magnetodielectric characterisation in <b>PPMS (14 T)</b> environments.
+        magnetodielectric characterisation in <b>PPMS (14 T)</b> and
+        <b>liquid-nitrogen</b> environments.
       </p>
       <img src="https://img.shields.io/badge/Hardware-FFA500?style=for-the-badge&logo=arduino&logoColor=white" alt="Open hardware"/>
       <img src="https://img.shields.io/badge/Cryogenics-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white" alt="Cryogenics"/>
+      <br/><br/>
+      <a href="https://prathameshnium.github.io/ITMS-Hardware/">
+        <img src="https://img.shields.io/badge/Project_Page-6C93C4?style=for-the-badge&logoColor=white" alt="ITMS-Hardware project page"/>
+      </a>
     </td>
     <td width="35%"></td>
   </tr>
@@ -173,10 +175,11 @@ seamlessly connect lab hardware, data acquisition, and theoretical modelling.
         </a>
       </h3>
       <p>
-        A privacy-first AI toolkit built on <b>local LLMs</b> via Ollama.
+        A privacy-first AI toolkit for researchers, running as <b>local desktop
+        apps</b> on Ollama or as <b>browser apps</b> with your own API key.
         Features <i>Orochimaru</i>, a RAG-powered assistant for analysing
-        academic PDFs and generating structured literature reviews —
-        entirely offline.
+        academic PDFs and generating structured literature reviews, with
+        documents parsed in memory and never uploaded.
       </p>
       <img src="https://img.shields.io/badge/Ollama-232323?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
       <img src="https://img.shields.io/badge/RAG-FF69B4?style=for-the-badge&logoColor=white" alt="Retrieval-Augmented Generation"/>
@@ -186,7 +189,7 @@ seamlessly connect lab hardware, data acquisition, and theoretical modelling.
       </a>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/kusanagi-ai/Orochimaru_Screenshot.jpg" alt="Screenshot of the Orochimaru research assistant in Kusanagi-AI" width="300"/>
+      <img src="assets/orochimaru-screenshot.png" alt="Screenshot of the Orochimaru web research assistant in Kusanagi-AI" width="300"/>
     </td>
   </tr>
 </table>
