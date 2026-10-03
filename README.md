@@ -9,7 +9,7 @@
   <p>
     <a href="https://prathameshnium.github.io" title="Prathamesh Deshmukh – personal website"><b>Website</b></a>
     &nbsp;·&nbsp;
-    <a href="https://prathameshnium.github.io/projects" title="Prathamesh Deshmukh – project portfolio"><b>Project Portfolio</b></a>
+    <a href="https://prathameshnium.github.io/projects" title="Prathamesh Deshmukh – GitHub project portfolio"><b>GitHub Project Portfolio</b></a>
   </p>
 
   <a href="https://scholar.google.com/citations?user=DJgzI30AAAAJ&hl=en&oi=ao">
@@ -70,7 +70,7 @@ I'm Prathamesh Deshmukh, a physicist working on **multiferroics and magnetoelect
         <img src="https://raw.githubusercontent.com/prathameshnium/static-files/main/projects/pica/logo/pica-logo-nbg.png" alt="PICA logo" width="28" valign="middle"/>
         <a href="https://pica-python-instrument-control-and-automation.readthedocs.io/en/latest/">PICA</a> — Python Instrument Control & Automation
       </h4>
-      <p>Open-source Python framework (PyVISA) that automates transport and dielectric measurements, from data acquisition to analysis. Submitted to JOSS. <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation">PICA on GitHub</a></p>
+      <p>Open-source Python framework (PyVISA) that automates transport and dielectric measurements, from data acquisition to analysis. <a href="https://prathameshnium.github.io/PICA-Python-Instrument-Control-and-Automation/publications/">Publications</a> · <a href="https://prathameshnium.github.io/PICA-Python-Instrument-Control-and-Automation/publications/pica-paper.pdf">PICA paper (PDF)</a></p>
       <a href="https://pypi.org/project/pica-suite/"><img src="https://img.shields.io/pypi/v/pica-suite?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="pica-suite on PyPI"/></a>
       <a href="https://doi.org/10.5281/zenodo.18377217"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18377217.svg" alt="PICA Zenodo DOI"/></a>
       <a href="https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation/releases"><img src="https://img.shields.io/github/v/release/prathameshnium/PICA-Python-Instrument-Control-and-Automation?style=flat-square&logo=github" alt="PICA latest release"/></a>
